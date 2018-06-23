@@ -1,0 +1,4678 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 Monaco;\f1\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red242\green242\blue242;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c96078\c96078\c96078;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 I \
+\
+\
+\
+\
+4 \
+\
+\
+\
+The Concise \
+\
+Oxford Dictionary \
+\
+of Current English \
+\
+\
+\
+Adapted by \
+H. W. FOWLER and F. G. FOWLER \
+\
+Authors of 'The King's English' \
+\
+from \
+\
+The Oxford Dictionary \
+\
+\
+\
+SEVENTH IMPRESSION \
+\
+\
+\
+\
+\
+\
+Oxford \
+\
+At the Clarendon Press \
+\
+1919 \
+\
+\
+\
+It''? \
+\
+\
+\
+OXFORD UNIVERSITY PRESS \
+\
+LONDON EDINBURGH GLASGOW NEW YOBK \
+\
+TORONTO MELBOURNE CAPE TOWN BOMBAY \
+\
+HUMPHREY MILFORD \
+\
+PUBLISHER TO THE UNIVERSITY \
+\
+\
+\
+PREFACE x \
+\
+THE steady advance towards completion of the great Oxford \
+English Dictionary has made it possible for the Delegates of the \
+Clarendon Press to authorize the preparation and issue of this book, \
+which in its own province and on its own scale uses the materials and \
+follows the methods by which the Oxford editors have revolution- \
+ized lexicography. The book is designed as a dictionary, and not \
+as an encyclopaedia ; that is, the uses of words and phrases as such \
+are its subject matter, and it is concerned with giving information \
+about the things for which those words and phrases stand only so \
+far as correct use of the words depends upon knowledge of the \
+things. The degree of this dependence varies greatly with the \
+kind of word treated, the difference between cyclopaedic and dic- \
+tionary treatment varies with it, and the line of distinction is \
+accordingly a fluctuating and dubious one. It is to the endeavour to \
+discern and keep to this line that we attribute whatever peculiarities \
+we are conscious of in this dictionary as compared with others of the \
+same size. One of these peculiarities is the large amount of space \
+given to the common words that no one goes through the day with- \
+out using scores or hundreds of times, often disposed of in a line or \
+two on the ground that they are plain and simple and that every one \
+knows all about them by the light of nature, but in fact entangled \
+with other words in so many alliances and antipathies during their \
+perpetual knocking about the world that the idiomatic use of them \
+is far from easy ; chief among such words are the prepositions, the \
+conjunctions, the pronouns, and such ' simple ' nouns and verbs as \
+hand and way, go andpwf. Another peculiarity is the use, copious \
+for so small a dictionary, of illustrative sentences as a necessary \
+supplement to definition when a word has different senses between \
+which the distinction is fine, or when a definition is obscure and \
+unconvincing until exemplified ; these sentences often are, but still \
+more often are not, quotations from standard authors; they are \
+meant to establish the sense of the definition by appeal not to ex- \
+ternal authority, but to the reader's own consciousness, and there- \
+fore their source, even when authoritative, is not named. A third \
+and a fourth peculiarity are the direct results of the preceding ones ; \
+if common words are to be treated at length, and their uses to be \
+copiously illustrated, space must be saved both by the curtest \
+\
+1 The remarks likely to be needed for reference on pronunciation, inflexion, &c, will \
+be found facing the letter A ; on the page before these remarks is a list of the abbrevia- \
+tions used in the Dictionary. \
+\
+4347oO \
+\
+\
+\
+iv PREFACE \
+\
+\
+\
+possible treatment of all that are either uncommon or fitter for the \
+encyclopaedia than the dictionary, and by the severest economy of \
+expression \'97 amounting to the adoption of telegraphese \'97 that readers \
+can be expected to put up with. \
+\
+In attaching this great importance to illustration, by the need of \
+which the relative length of articles, and our manner of expressing \
+ourselves on every page, are governed, we are merely acting, with the \
+exaggeration imposed on us by our limited space, upon the principles \
+of the O.E.D. That may be said to be the first dictionary for which \
+the ideal procedure has been possible, that is, the approaching of \
+each article with an open mind and a collection of examples large \
+enough to be exhaustive, and the extraction from these of classified \
+senses \'97 the first dictionary, to put it another way, in which quota- \
+tions have served not merely to adorn or convince, but as the \
+indispensable raw material. This procedure \'97 first the collection of \
+sentences from all possible sources as raw material, and then the \
+independent classification \'97 we have often followed even in that \
+part of our book (A \'97 R) in which the O.E.D. , with senses already \
+classified and definitions provided, was before us, treating its articles \
+rather as quarries to be drawn upon than as structures to be repro- \
+duced in little ; and in the later part (S \'97 Z), where we had no longer \
+the O.E.D. to depend upon, it has been our practice still more often; \
+for many of the more difficult (i.e. especially the common and \
+4 simple ') words, we have collected the quotations given in the best \
+modern dictionaries (the Imperial, the Century, the Standard, \
+Cassell's Encyclopaedic, Webster, &c), added to these what we \
+could get either from other external sources or from our own heads, \
+and then framed our articles, often without reference to the arrange- \
+ment that we found in any of our authorities. Proceeding in this \
+manner, it was almost inevitable that we should be very much alive \
+to the inadequacy of mere definition and the need of constant illus- \
+tration. That our examples have some general tendency to the \
+colloquial, and include many usages for which room has not been \
+found in dictionaries many times as large as this, is in harmony \
+with our design of on the one hand restricting ourselves for the \
+most part to current English, and on the other hand omitting \
+nothing to which that description may fairly be applied. \
+\
+VOCABULARY \
+\
+The words, or senses of words, given are meant to be such only \
+as are current ; ' current ', however, is an elastic term ; we might, \
+but we do not, stretch it to include all words and senses used by \
+Shakspere or in the Bible, on the ground that the whole of Shak- \
+spere and the whole of the Bible are still commonly read ; thus the \
+\
+\
+\
+PREFACE \
+\
+\
+\
+archaic senses of addition (title), buxom (pliant), owe (own), sad \
+(serious), sort (suit), and the archaic words shend (scold), wood \
+(mad), familiar as they are to readers of Elizabethan literature, are \
+not given. We do stretch it to include many words and senses that \
+are fossilized, having in themselves no life or capacity for further \
+development, but kept extant by being enshrined in perhaps a single \
+proverb or phrase that is still in use ; of this sort are coil (confusion), \
+preserved by 'shuffled off this mortal coil', and scotch (wound), \
+preserved by ' we have scotched the snake, not killed it '. \
+\
+Again, of the many thousands of old or new scientific and \
+technical terms that have a limited currency some are carried by \
+accident into the main stream of the language and become known \
+temporarily or permanently, vaguely or precisely, to all ordinarily \
+well-informed members of the modern newspaper-reading public. \
+For the purposes of a dictionary that is not to be bulky and yet is to \
+give a fuller treatment than is usual in dictionaries of its size to the \
+undoubtedly current words forming the staple of the language, \
+selection among these intruders is a difficult but very necessary \
+task. The most that can be hoped for is that every one conversant \
+with any special vocabulary may consider us, though sadly deficient \
+on his subject, fairly copious on others ; the meaning of many \
+learned words that have been omitted as having no pretence to \
+general currency may easily be gathered by reference first to the \
+stem, which is often the subject of an article, or to another word of \
+which the stem is clearly the same, and secondly to the suffix. \
+\
+In another class of words and senses the test of currency has led \
+us to diverge in the opposite direction from the practice usual in \
+dictionaries of this size ; if we give fewer scientific and technical \
+terms, we admit colloquial, facetious, slang, and vulgar expressions \
+with freedom, merely attaching a cautionary label ; when a well- \
+established usage of this kind is omitted, it is not because we \
+consider it beneath the dignity of lexicography to record it, but \
+because, not being recorded in the dictionaries from which our \
+word-list is necessarily compiled, it has escaped our notice ; we have \
+not, however, consulted slang dictionaries nor made any attempt at \
+completeness in this respect. \
+\
+SPELLING \
+\
+The spelling adopted is for the most part, but not invariably, that \
+of the O.E.D. For instance, the verbs that contain the suffix -ize \
+(which see), and their derivatives in -ization &c, are all given \
+without the alternative forms in -ise &c, although these are still \
+the commoner in British (as opposed to American) printing ; but \
+such generally established spellings as judgment, rhyme, axe, have \
+\
+\
+\
+vi PREFACE \
+\
+\
+\
+not been excluded in favour of the judgement, rime, ax, preferred by \
+the O.E.D., but are retained at least as alternatives having the right \
+to exist. In dealing with verbs such as level, rivet, bias, whose \
+parts and derivatives are variously spelt, the final consonant being \
+often doubled with no phonetic or other significance, we have as far \
+as possible fallen in with the present tendency, which is to drop the \
+useless letter, but stopped short of recognizing forms that at present \
+strike every reader as Americanisms; thus we write riveted, riveter, \
+but not traveling, traveler. On another point of varying usage \'97 \
+the insertion of a mute e in derivatives in -able, -age, -ish, &c, to \
+indicate the 'long' sound of the stem vowel (likable or likeable, \
+milage or mileage, latish or lateish) \'97 we have thought ourselves \
+justified in taking a bolder line, and have consistently omitted the \
+-e- ; it is against all analogy (or why not smileing, Romeish, doteage, \
+tideal, indescribeable, desireable, exciteable ?), it is used chiefly in \
+words not familiar or important enough to have their form respected \
+as established, it obscures the different and more valuable use by \
+which a soft g or c is indicated as in manageable and serviceable, and \
+it tempts bad spellers to such monstrosities as unpalateable, loveable, \
+and moveable. In words of the type ardour, colour, favour, where \
+the O.E.D. recognizes both -our and -or, we have excluded the \
+latter as being (except in particular words like horror and torpor, in \
+which it is usually the only form) entirely non- British. Words in \
+which -y- has intruded itself without completely dispossessing a \
+more correct -i-, as sylvan, tyro, tyre, we have given with the -i- \
+form either alone or placed first. In stating the plural of words in \
+-o, we have found it impossible to draw any satisfactory line \
+between the words that prefer -os and those that prefer -oes ; it may \
+perhaps be laid down that on the one hand words of which the \
+plural is very commonly used, as potato, have almost invariably \
+-oes, and on the other hand words still felt to be foreign or of \
+abnormal form, as soprano, chromo for chromolithograph, have \
+almost invariably -os ; of many other words it may be said with \
+confidence that they use one form only (cf . punctilios, noes) ; but \
+the majority fluctuate, and we have not seen our way to doing \
+otherwise. We have also to admit that after trying hard at an \
+early stage to arrive at some principle that should teach us when to \
+separate, when to hyphen, and when to unite the parts of com- \
+pound words, we had to abandon the attempt as hopeless, and \
+welter in the prevailing chaos. \
+\
+\
+\
+PREFACE vii \
+\
+\
+\
+PRONUNCIATION \
+\
+When the pronunciation of a word is not sufficiently determined \
+by the placing of the stress-mark or by vowel quantities, further \
+information follows in round brackets. The phonetic values of the \
+letters employed in these, and the use of the stress-mark, are \
+explained on the page facing the letter A. \
+\
+Derivatives are to be understood, unless the contraiy is indicated, \
+as following the pronunciation of the main word under which they \
+are given or to which they are referred in the etymological note. \
+\
+The pronunciation of many words is omitted on the assumption \
+that the reader is already familiar with the normal values of some \
+letters and combinations. The hard sounds of th and s, and the \
+sounds of c (s) and g (3) before i, e, and y, are recorded only for \
+special purposes; a vowel that is short before two consonants or \
+a single final consonant, or long before a single consonant followed \
+by e mute, is not usually marked; and the pronunciation of the \
+suffix -ation (-ashn) and of the a in path &c. (-ah-, -a-) is not given. \
+\
+To some suffixes no less familiar than -ation pronunciation is \
+added in view of certain ignorant or pedantic tendencies. The \
+pleasant fiction that cottage is pronounced kotaj, though still pre- \
+valent in dictionaries, has perhaps never deceived any one; but \
+we have all heard furniture (-tur), knowledge (no-), and often (-t-). \
+Against these and other results of the undue influence of spelling \
+warnings are freely given. \
+\
+In the choice or rejection of alternative pronunciations the O.E.D. \
+has always been consulted, but is not always followed. \
+\
+ORDER OF SENSES \
+\
+From the order in which the senses of a word are here given no \
+inference must be drawn as to their historical or other relations, the \
+arrangement being freely varied according to the requirements or \
+possibilities of the particular word. Sense- development cannot \
+always be convincingly presented without abundant quotation from \
+authorities, and the historical order is further precluded by the \
+uniform omission of obsolete senses. Occasionally, when a rare but \
+still current sense throws light on the commoner senses that follow \
+or forms the connecting link with the etymology, it has been placed \
+at the beginning ; but more commonly the order adopted has been \
+that of logical connexion or of comparative familiarity or im- \
+portance. \
+\
+\
+\
+viii PREFACE \
+\
+\
+\
+ETYMOLOGY \
+\
+Etymology is given in square brackets at the 3nd of each article. \
+\
+Words of Teutonic origin are illustrated by all or some of the \
+forms found in cognate languages. With words that have passed \
+through several languages on their way to English, the forms taken \
+in successive languages are recorded in full, with the following \
+exceptions. (1) When OF or the like at the beginning of the etymo- \
+logy is not followed by the old French form written in full, it is \
+because the latter is identical in spelling with the English or differs \
+from it only in some unimportant detail specified in brackets. \
+(2) The Latin form of a Greek word is usually omitted, and is to be \
+inferred according to the rules of transliteration given below. Thus \
+(under pleonasm) ' f . L f . Gk pleonasmos ' is to be read ' f . L \
+pleonasmus f. Gk pleonasmos\\ A similar omission of a word in \
+any other language implies absolute identity of form. \
+\
+Greek words are written with the corresponding English letters \
+($> X' +> Pi pp\\=P n > kh, ps, rh, rrh, and a, tj, w,=ai, ei, 6i), and not \
+according to the Latin transliteration, the rules for which are as \
+follows: Greek k= Latin c; ai=ae; ou=u; u (exc. in diphthongs) \
+= y ; ei = i or e ; oi = oe (but in nom. pi. = i) ; g (before g or k) = n ; also, \
+-6s (nom. masc), -6n,=\'b1-us, -um; -es, -e, (1st decl. nom.)=-a; -on \
+(nom.)=-o; -6s (genit.) = -is; -a (accus. sing. masc. or fern. ) = -em. \
+\
+French nouns of Latin origin are with few exceptions derived \
+from the Latin accusative ; but the Latin nominative is here given \
+except when (e.g. in words in -atio) a change of stress is involved. \
+\
+Greek i\\ (e) and w (6), and the e of Latin infinitives of 2nd conj. \
+(-ere, -eri), are regularly marked long. The accented letters (a, sb, \
+&c.) in forms quoted from Old English or other Teutonic languages \
+are long. \
+\
+F, G, &c, must not be taken to imply that the word to which \
+they are prefixed is current, or is so spelt, in the modern language ; \
+nor does it follow from a word's being given as OF that it is obsolete. \
+\
+The etymology often contains references in small capitals to \
+words and suffixes. \
+\
+Hence introduces one or more of the direct derivatives of the word \
+treated ; whence introduces such derivatives under a particular sense \
+to which they are restricted ; so introduces words derived from \
+another language ; hence or cogn. , whence or cogn. , introduce groups \
+of partly English and partly foreign derivation. The suffixes of \
+such derivatives are commonly printed in small capitals, and are \
+thus referred to the suffix article in its alphabetical place. The \
+numbers enclosed in brackets indicate subdivisions of the suffix \
+\
+\
+\
+PREFACE ix \
+\
+article, and are often used to distinguish among the possible senses \
+of the derivative word those in which it is chiefly current. \
+\
+The first element of a Latin or other compound word is .often \
+referred to a prefix article, and the remainder treated separately \
+within brackets; meanings given within the bracket belong to the \
+simple word, those of the compound being added if necessaiy outside \
+it. Thus convene is [f. F convenir f. L C0T$(venire vent- come) \
+assemble, agree, fit]. The stem vent- and the senses agree, fit, are \
+here added for the purposes of convention and convenience, which \
+are referred to convene. The first element of a Greek compound \
+similarly treated is sometimes written according to the current \
+(Latin) transliteration, to facilitate reference to the prefix article; \
+Greek kakoepeia, under cacoepy, accordingly appears as CACO\{epeia). \
+Certain similar devices for saving needless repetition will, it is \
+believed, explain themselves. \
+\
+The etymology of all words from A to R was drawn in the first \
+instance from the O.E.D., but was occasionally modified after \
+reference to Prof. Skeat's Etymological Dictionary (Clarendon \
+Press, 4th edition, 1910). From S to Z Prof. Skeat's work has \
+been our main authority, the Century and other dictionaries being \
+consulted for the words that he omits. \
+\
+\
+\
+REFERENCE BY SMALL CAPITALS \
+\
+The use of small capitals for etymological purposes is explained \
+above. \
+In the same way reference is made \
+\
+(1) from the word treated to another word for the purpose of \
+contrast, distinction, correlation, or the like. Of this kind are the \
+references from slander to libel and scandal, from creationism to \
+evolution and vice versa, and from tenon to mortise and vice versa. \
+\
+(2) from any member of a group to the word under which the \
+group is collected or further explained. Ruby (print.) is in this \
+way referred to type ; order (nat. hist.) to class 1 ; and the iron 1 , \
+golden, and silver ages to brazen \\ \
+\
+(3) from one or more words of a proverb or the like to that under \
+which alone the proverb is explained. Play l and drake 2 contain \
+such references to duck l , flesh and herring to fish \\ \
+\
+(4) from a compound of the word treated to its other component \
+for explanation. The sign ( = ) prefixed to such a reference indicates \
+that the simple word treated is itself used in the sense of the com- \
+pound. Thus, under pie 1 , sea-pie is merely referred (sea.-j>.) to sea, \
+but magpie, besides being referred to the article magpie, is recorded \
+(= magpie) as one of the senses of pie. \
+\
+\
+\
+PREFACE \
+\
+\
+\
+ABBREVIATIONS \
+\
+In any article, when the word treated in it is to be quoted or \
+mentioned, its initial letter followed by a period is used instead \
+of the whole word ; this stands only for the exact form that heads \
+the article ; e.g., in the verb love, I. means love (verb or noun), \
+but not loving, loved, &c. ; the plural of nouns is represented by \
+doubling the letter ; e.g., in extreme, nut, ee., nn., mean extremes, \
+nuts ; in the part of an article obviously restricted to a derivative \
+the letter may stand for that derivative ; e.g., representation, given \
+in the article represent, is followed by a bracket in which r. stands \
+not for represent, but for representation ; in the part of an article \
+restricted to a compound, the hyphened initials of the two parts are \
+used ; e.g., when in doing ground-floor under the article ground the \
+phrase get in on the ground-floor is to be explained in a bracket, \
+g.-f. is used for ground-floor. \
+\
+Of other abbreviations, a list including all that are not either too \
+obvious to need explanation or generally current (and accordingly \
+to be found in the abbreviation lists given in the first article of each \
+letter of the alphabet) follows on the opposite page. In this list, \
+three points require mention : (1) the appending of &c. means that \
+the abbreviation stands for derivatives or inflexions as well as for \
+the simple word given ; e.g., metaphor &c. means metaphor, meta- \
+phorical, or metaphorically ; explain &c. means explain, explains, \
+explained, explaining, or explanation ; this system is used also with \
+abbreviations omitted as obvious ; thus adv. stands not only for \
+adverb, but also for adverbial and adverbially ; (2) abbreviations of \
+nouns, such as ex. (example), prep, (preposition), are often used \
+with the last letter doubled (exx.,prepp.) as plurals ; it has not been \
+thought necessary to give these plural forms except in one-letter \
+abbreviations (aa., nn.); similar plurals occur for forms that have \
+been omitted as obvious iadjj. for adjectives &c); (3) abbreviations \
+given in the list with initial capital have always the capital in use ; \
+but those given with initial small letter have either form according \
+to circumstances ; similarly, though the list is all in Roman type, \
+the abbreviations are sometimes for reasons not affecting their sense \
+printed in italics. \
+\
+June, 1911 \
+\
+\
+\
+LIST OF ABBREVIATIONS \
+\
+\
+\
+a., adjective \
+aa., adjectives \
+abl., ablative \
+abs., absolute &c. \
+ace, according, accusative \
+AF, Anglo-French \
+alch., alchemy &c. \
+alius., allusive &c. \
+anal., analogy &c. \
+ant., antiquities \
+arch., architecture &c. \
+Ass., Assyrian \
+assim., assimilate &c. \
+assoc, associated &c. \
+astr(on)., astronomy &c. \
+astrol., astrology &c. \
+attrib., attributive &c. \
+augment., augmentative \
+&c. \
+\
+b., born \
+\
+back-form., back-formation \
+\
+bibl., biblical &c. \
+\
+Boh., Bohemian \
+\
+Bret., Breton \
+\
+c, century, circiter \
+\
+cc, centuries \
+\
+cl., classical \
+\
+cogn., cognate \
+\
+colloq., colloquial &c. \
+\
+comb., combination &c. \
+\
+comp., composition, com- \
+parative \
+\
+compd, compound \
+\
+compl., complement \
+\
+compp., compounds \
+\
+conj., conjunction, conju- \
+gation \
+\
+conn., connect &c. \
+\
+constr., construct &c. \
+\
+contr., contraction &c. \
+\
+cop., copulative \
+\
+Corn., Cornish \
+\
+correl., correlative &c. \
+\
+d., died \
+\
+Da., Danish \
+\
+dat., dative \
+\
+deriv., derivative &c. \
+\
+dial., dialectal \
+\
+d iff., different \
+\
+different., differentiate &c. \
+\
+dim., diminutive &c. \
+\
+dissim., dissimilate &c. \
+\
+Du., Dutch \
+\
+dub., dubious \
+\
+E, English \
+\
+eccl., ecclesiastical &c. \
+ellipt., elliptical &c. \
+erron., erroneously \
+eth., ethics &c. \
+etym., etymology &c. \
+euphem., euphemism &c. \
+ex., example \
+exag., exaggeration &c. \
+exc, except \
+\
+excl., exclusive &c., excla- \
+mation &c. \
+expl., explain &c. \
+expr., expressing &c. \
+\
+\
+\
+F, French \
+f., from \
+\
+facet., facetious &c. \
+\
+fig., figurative &c. \
+\
+foil., (the) following (word) \
+\
+found., founding \
+\
+Fr., French \
+\
+freq(uent)., frequentative \
+\
+&c. \
+Fris., Frisian \
+\
+G, German \
+\
+gen., general &c, genitive \
+\
+Gk, Greek \
+\
+gr., grammar &c. \
+\
+Hind., Hindi, Hindustani \
+hist., history, historical &c. \
+hort., horticulture &c. \
+\
+i., intransitive \
+imit., imitative &c. \
+ind., indicative, indirect \
+inf., infinitive \
+inn., influence &c. \
+instr., instrumental (case) \
+int., interjection \
+intr., intransitive \
+\
+joe, jocose &c. \
+\
+L, Latin \
+\
+LG, Low German \
+lit., literal, literally \
+LL, late Latin \
+\
+ME, middle English (1200- \
+\
+1500) \
+med., medicine &c. \
+mcd. L, medieval Latin \
+mctaph., metaphor &c. \
+MHG, middle high German \
+min., mineralogy \
+\
+n., noun \
+\
+neg., negative &c. \
+\
+nn., nouns \
+\
+nom., nominative \
+\
+N.T., New Testament \
+\
+num., numeral \
+\
+O, old (with languages) \
+\
+obj., object &c. \
+\
+obs., obsolete \
+\
+occ(as)., occasional &c. \
+\
+OHG, old high German \
+\
+ON, old Norse \
+\
+ONF, old northern French \
+\
+opp., (as) opposed (to) \
+\
+opt., optics &c. \
+\
+ord., ordinary \
+\
+orig., origin &c. \
+\
+O.T., Old Testament \
+\
+part., present participle \
+partie, participial \
+path., pathology &c, \
+phr., phrase \
+pi., plural \
+Pol., Polish \
+pol., politics &c. \
+pop., popular &c \
+\
+\
+\
+p.p., past or passive parti- \
+ciple \
+\
+Pr., Proven ;iA \
+\
+pr., pronounce &c. \
+\
+prec, (the) preceding (word). \
+\
+pred., predicate &c. \
+\
+pref., prefix \
+\
+prep., preposition \
+\
+pres., present \
+\
+prob., probable 8r.c. \
+\
+pron., pronoun &c, pro- \
+nounce &c. \
+\
+prop., proper, properly \
+\
+pros., prosody &c. \
+\
+Pro v., Provencal \
+\
+pro v., proverb &e, pro- \
+vincial &c. \
+\
+R.-C, Roman-Catholic \
+ref., reference \
+refash., refashioned &c \
+refl., reflexive &c. \
+rel., relative \
+repr., represent &c. \
+Rom., Roman, Romance \
+\
+s., singular \
+Sc, Scotch \
+sci., science &c. \
+sent., sentence \
+Skr., Ganskrit \
+somet, sometimes \
+st., stem \
+\
+subj., subject &c, subjunc- \
+tive \
+suf., suffix \
+sup., superlative \
+surv., surveying \
+Sw., Swedish \
+\
+t., transitive \
+term., termination \
+thr., through \
+trans., transitive &c. \
+transf., in transferred sense \
+transl., translation &c. \
+translit., transliteration \
+typ., typography \
+\
+ult., ultimately \
+unexpl., unexplained \
+U.S., United States \
+usu., usual, usually \
+\
+v., verb \
+\
+var., variant, various \
+\
+vbl, verbal \
+\
+voc, vocative \
+\
+vv., verbs \
+\
+W, Welsh \
+\
+w., with \
+\
+WG, West German \
+\
+*, sign affixed to all forms \
+not recorded but merely \
+inferred, with the excep- \
+tion of those called Aryan \
+or OTeut. (all of which \
+are inferential) \
+\
+\
+\
+NOTE ON ACCENT, PRONUNCIATION, INFLEXION, AND \
+\
+FOREIGN WORDS \
+\
+ACCENT \
+\
+Accent is marked by the turned period ("), which is normally placed after the \
+accented vowel or diphthong (a'etop, allow, a'ccent noun, acce'nt verb, exag- \
+gepa'tion, exa*g , g , epatop) ; two equal accents in one word are both marked (ti*tbi*t) ; \
+and the 
+\f1 \uc0\u9632 
+\f0  is used for the secondary as well as for the main accent in long words where \
+the former might be doubtful (cir'eumgypa'te, a*biogene*tieally). \
+\
+But the place of the turned period in syllables whose vowel sound is modified by r or \
+re is after the whole combination (por'ter, pupe'ly), any possible confusion being \
+guarded against by the - or ^ (mere'ly, but hepe'tieal). Similarly it stands after \
+silent consonants (migh'ty, deb'top, blaek'guard), consonants that merely modify \
+a vowel sound (eal'mness), or e mute following the accented vowel (blue'bell). \
+\
+Some miscellaneous examples are added :\'97 fo'rest, fore'noon, for'tnight, fore'nsic ; \
+bar'ring, ba Track; bal'my, ba'lsam ; arraig'n ; demes'ne ; sig'ning, si'gnature; high'er; \
+Cadme'an; defray; bye'-law; da"ffadowndi*lly ; ca'noniza'tion. \
+\
+PRONUNCIATION \
+\
+When necessary, a bracket is placed immediately after a word, with directions for \
+pronouncing it or some part of it. In these brackets, \
+\
+(1) Vowel sounds have the value shown by the roman-type letters in :\'97 mate, mete, \
+viite, mote, mute, moot ; rack, reck, rick, rock, ruck, rook ; caw, cow ; bah, boil. \
+\
+(2) Vowel-combinations with r (the r is not trilled before a consonant or mute e) are \
+as follows :\'97 \
+\
+wiare, mere, mire, move, demure, moor ; dowry ; part, pert, port. \
+\
+(3) Italicized vowels or vowel-combinations have the indistinct sound shown in \
+again, moment, admiral, morose, support, certain, connoisseur, comfort, jealous, murder. \
+\
+(4) Each consonant or consonant-combination has only one sound; the value of \
+ambiguous or specially used ones is :\'97 \
+\
+eh as in loch ; dh as iwdhen ( = then) ; g" as in get ; jasin./e\'a3; x\\g a.sin singer ; ngg \
+anin finger ; n-g" as in un-gardid (=unguarded) ; p as in rat (and see vowel-combina- \
+tions above) ; s as in sister ; th as in thinketh ; tsh as in tship (=chip) ; w as in wit (and \
+see vowel sounds above) ; y as in yet ; zh as in fuzhn (=fusion). \
+\
+Letters marked - or w# in the word itself have the same value as in the brackets, \
+except that e is also used, when there is no danger of confusion, to show that e is not \
+mute or part of a compound sound ; so ni"cety, ca'ffeine. \
+\
+INFLEXION \
+\
+The rules assumed, exceptions to which are noted in a bracket placed after a word's \
+grammatical description, are as follows :\'97 \
+\
+1. Verbs add -s in 3rd sing, pres., -ed in past and p.p., -ing in pres. part., -er to form \
+agent-noun. \
+\
+2. Verbs and adjectives drop final mute e before -ing, -ed, -er, -est. \
+\
+3. Before -ed, -ing, -er, -est, -eth, monosyllabic verbs and adjectives double a final \
+single consonant (except x) if preceded by a single vowel. \
+\
+4. (a) nouns, (b) adjectives, (c) verbs, in -y preceded by a consonant have (a) plural \
+-ies, (b) comparative -ier, superlative -iest, adverb -ily, noun -iness, (c) 3rd sing. pres. \
+-ies, past and p.p. -ied, agent-noun -ier. \
+\
+5. Nouns in -s, -x, -z, -ch = tsh, and -sh, and some in -o, form plural by adding -es ; \
+others add -s. \
+\
+6. Monosyllabic adjectives and disyllables in -y compare in -er, -est ; others with \
+more, most. \
+\
+FOREIGN WORDS \
+\
+Words usually or often printed in italics as either incompletely naturalized or com- \
+pletely foreign are in sloping type. When either the word itself or any of its sounds \
+is distinctly un-English, the reader is warned by a bracket containing, instead of pro- \
+nunciation, the letter or letters standing for the language it belongs to. Otherwise, \
+pronunciation is given for sloped words to the same extent as for others, but is often \
+to be taken as merely approximate. \
+\
+\
+\
+ENGLISH DICTIONARY \
+\
+\
+\
+ABASE \
+\
+\
+\
+A, letter (pi. As, A's, Aes). (Mus.) note, and \
+the corresponding scale. (In argument) first \
+imaginary person or case. (Alg.) first known \
+quantity. (Naut.) Al (a won), first-class ship \
+in Lloyd's register; excellent, best, (colloq.). \
+(Naut.) JE, thix*d-class ship at Lloyd's. \
+\
+Abbreviations (1) : ab, A.U.C. (urbe con- \
+dita) ; able, A.B. (-bodied) ; acting, as \
+A.A.Q.M.G. (assistant quartermaster gen- \
+eral) ; assistant, as A.A.G. (adjutant general), \
+A.Q.M.G. (quartermaster general) ; adjutant, \
+as A.G. (general) ; aide, A.D.C. (-de-camp) ; \
+anno, as A.D. (domini), A.H. (hegirae) ; ante, \
+as a.m. (meridiem) ; army, as A.S.C. (service \
+corps) ; Associate, as A.R. A. (Royal Academy) ; \
+authorized, A.V. (version). \
+\
+Abbreviations (2) : ab init., ab initio ; Abp, \
+Archbishop ; a c, account ; Adm., Admiral ; \
+advt, advertisement ; aet., aetatis ; Ala., \
+Alabama; Alas., Alaska; Alban., Bishop \
+of St Alban's ; Ariz., Arizona ; Ark., Arkan- \
+sas ; app., arrives. \
+\
+a 1 , an, a. (sometimes called indefinite article. \
+Before all consonants except silent h, use a ; \
+a history, a historian, though some still write \
+an before h in unaccented syllable, but an \
+hour : before all vowels except eu, u, use an ; \
+an ulcer, but a unit, a eulogy, also a one. \
+Placed after many, such, what, or any adj. \
+preceded by how, so, as, too. Used with ap- \
+parent plurals of number, a dozen men-a, \
+dozen of men ; also with pi. adjj. few, good \
+many, great many). (Unemphatic substitute \
+for) one, some, any ; one like (a Daniel) ; (after \
+all of, many of, &c.) the same (all of a size) ; \
+(distrib.) each (\'a3U0 a year, where a is orig. = \
+foil.), [weakening of OE an one] \
+\
+a 2 , prep. On, to, towards, into, in. Mostly \
+now written as pref., or oftener omitted than \
+expressed, or confused w. a 1 . On : abed, afoot. \
+To : ashore. Towards : aback, afar, aside. \
+Into : apart, asunder. In : now-a-days, twice a \
+day ; w. vbl nouns, passively, a-building, \
+actively, was (a-) fighting, and esp. w. go, set, \
+as he went a begging, they set the bells a ring- \
+ing, [weakening of OE prep, an, on] \
+\
+a-, pref. f. various sources. (1) OE ar- or a-, \
+away, on, up, out, and so to express intensity, \
+as arise ; cf. G er-. (2) OE an, on prep. ; see \
+prec. (3) OE of prep., as akin. (4) L ad- to, \
+either directly, as aspect, or through F a- as \
+achieve ; many words derived in the latter way \
+have been later assimilated to L spelling, as \
+a(d)dress, a(g)grieve. (5) L a, ab, from; \
+directly, as avert, or through F a-, as abridge ; \
+again somet. assimilated to L spelling, as \
+a(b)stain. (6) L ex- out, utterly, through AF a- \
+f. OF e-, es-, as amend. (7) Gk a-, an-, not, \
+without ; directly, as amorphous, through L, \
+as acatalectic, or through L and F, as adamant ; \
+compounded chiefly w. Gk words, but also w. \
+others, as a-moral. \
+\
+F.D. \
+\
+\
+\
+-a, suf. (1) Nn. f. Gk, L, and Rom. fern, sing., \
+as idea (Gk), arena, (L), piazza (It.), duenna \
+(Sp.), esp. Nat. Hist, terms, ancient or latinized \
+mod. (hyena, dahlia), geogr. names (Africa), \
+and names of women, ancient or latinized mod. \
+(Lydia, Hilda). (2) Gk and L neut. pi. nouns \
+(genera, phenomena), esp. names, often f. mod. \
+L, of classes of animals (mammalia). \
+\
+aard-vapk (ard), n. S. -African quadruped \
+between armadilloes and ant-eaters, [f. Du. \
+aarde earth+mrA; pig, cf. OE fearh and L \
+porcus pig] \
+\
+aapd-wolf (ard), n. S. -African carnivore \
+between hyenas and civets, [see prec] \
+\
+Aap'on's beard (ar-), n. Kinds of plant, \
+esp. Great St John's wort. [ref. to Ps. cxxxiii. \
+\
+Aar'on's rod (ar-), n. Kinds of plant, esp. \
+Great Mullein and Golden Rod. [ref. to Num. \
+xvii. 8] \
+\
+ab-, pref. Away, from, off, apart, [f. L ab, \
+cf. Gk apo, E of, off, G ab-. In L reduced \
+to a- before p, m, v, changed to au- before /, \
+and to abs- before c, t; in F often reduced \
+to a-] \
+\
+aba'ck, adv. Backwards. (Naut.) of square \
+sails pressed against mast by head wind ; taken \
+a., of ship w. sails in that state ; (fig.) surprised. \
+\
+[A2+BACK1] \
+\
+a'bacus, n. (pi. -ci pr. -si). Calculating-frame \
+w. balls sliding on wires, used before adoption \
+of the nine figures and zero. (Arch.) upper \
+member, often square flat slab, of capital, sup- \
+porting architrave. [L abacus f. Gk abaa? \
+-akos tablet] \
+\
+Aba'ddon. Hell ; the devil (Rev. ix. 11)- \
+[Heb. word, destruction (abad he perished)] \
+\
+aba'ft (-ahft), adv. &prep. (naut.). In stern \
+half of ship ; behind. [a2+6o/\'a3=OE be by+OE \
+aeftan adv. behind] \
+\
+aba'ndon \\ v.t. Give up to another's con- \
+trol or mercy ; yield oneself completely to a \
+passion or impulse ; give up (a possession or \
+habit) ; forsake (a person, post), [f. OF aban* \
+doner (a to+bandon jurisdiction, mettre a \
+bajndon meaning to put a person under any \
+one's, including his own, control)] \
+\
+aba'ndon 2 (or as F), n. Careless freedom, \
+letting oneself go. [F ; see prec] \
+\
+abandoned, a. Profligate, [p.p. of aban- \
+don i] \
+\
+aba*ndonee% n. (law). Underwriter to \
+whom salvage of wreck is abandoned, [aban- \
+don ! + -ee] \
+\
+abandonment, n. Giving up or forsaking ; \
+being forsaken ; self-surrender ; careless free- \
+dom of manner, impulsiveness. [f. F aban- \
+donnement (abandon *, -ment)] \
+\
+aba'se, v.t. Lower, humiliate, make base. \
+Hence aba'seMENT n. [f. OF abaissier (now \
+abaisser) (a to + baissier to lower f. LL \
+bassare f. bassus short)] \
+\
+1 \
+\
+\
+\
+ABASH _2 \
+\
+aba'sh, v.t. Put tojt tjt oopntepaooe ; (chiefly J \
+in pass.) be confounded. Heact ; aba'sln- \
+ment n. [f. OF esbair astound f. \'ab\'bb --A-(Q)\'b1 \
+oaMr cry bah!; see -ish 2 & cf. punch = \
+punish] _ , \
+\
+aba-sk, adv. In warm light. [a 2 +bask] \
+\
+aba'te, v.t. & i. Diminish (t. & i.). Do away \
+with (nuisance) ; blunt (edge) ; lower (price) ; \
+deduct (specified or unspecified part of price) ; \
+mitigate (violence); weaken (energy). Grow \
+less (of flood or epidemic). (In law) quash (writ \
+or action). So aba'teMENT n. [f. OF abatre \
+(a to+batre f. LL batere f. L batuere beat)] \
+\
+a'batis, aba'ttis, n. Defence made of felled \
+trees w. boughs pointing outwards. Hence \
+aba'tiSED 2 a. [F abatis, OF abaters f. LL \
+*abateticius of throwing down ; cf. OF abatre, \
+see abate] \
+\
+abattoir (F), n. Public slaughterhouse. \
+\
+abb, n. Woof, [a- (1) + web] \
+\
+A'bba, n. Father. Used w. Father in invok- \
+ing God (Mark xiv. 36). [Aram.] \
+\
+a'bbacy, n. Office, jurisdiction, or tenure, \
+of an abbot, [earlier abbatie (see -cv) f. LL \
+abbatia (abbat- nom. -as abbot)] \
+\
+abba'tial (-ashal), a. Of an abbey, abbot, \
+or abbess. [F, f. LL abbatialis \{abbatia ab- \
+bacy, -al)] \
+\
+a*bb6 (-a), n. Frenchman (orig. abbot) en- \
+titled to wear ecclesiastical dress, esp. without \
+official duties. [F, f . L abbatem nom. -as abbot] \
+\
+a'bbess, n. Lady superior of a nunnery. \
+[OF abaesse (Pr. abadessa) f. LL abbatissa \
+(abbat- abbot)] \
+\
+a'bbey, n. Buildings occupied by monks or \
+nuns under an abbot or abbess ; the monks or \
+nuns as a body ; a church or house that was \
+once an abbey or part of it. [f. OF abate, Pr. \
+abadia, f. LL abbatia abb AC v] \
+\
+a'bbot, n. Head of abbey of monks ; Abbot \
+of Misrule or of Unreason, leader in medieval \
+burlesque festivities. Hence a'bbotcv, a*b- \
+botSHiP, nn. [OE abbod, f. L f. Gk abbas \
+-at- (abba)] \
+\
+abbreviate 1 (-at), a. Relatively short (esp. \
+in nat. hist.), [f. L abbreviatus p.p. of abbre- \
+viare shorten (ab off or ad to+brevis short)] \
+\
+abbre' viate 2 , v.t. Make short (chiefly now \
+of writing part of word for whole, but also of \
+visit, story, &c.) Hence abbre vIation n. \
+[f . prec. ; see -ate 3 ] \
+\
+A B C, n. The alphabet ; rudiments of any \
+subject ; alphabetical railway guide. \
+\
+a'bdicate, v.t. Renounce formally or by \
+default (a power, office, right ; also abs., esp. of \
+the crown). Hencs abdic a 'tion n. , a'bdicat- \
+ed 1 (2) a. [f. L AB(dica? , e declare), -ate 3 ] \
+\
+abdo'men, n. (Anat.) belly, including \
+stomach, bowels, and other nutritive organs. \
+(Zool.) hinder part of insects, spiders, &c. [L, \
+etym. dub.] \
+\
+abdd'minal, a. Of the abdomen in either \
+sense ; (of fish) having the ventral fins under \
+the belly, [f. abdomin- stem of prec. + -al] \
+\
+abdo'minous, a. Corpulent. [asprec.+-ous] \
+\
+abdu'eent, a. (anat.). Drawing away (of \
+muscles that open or pull back the part they \
+are fixed to). [\'a3 L abducent- part. st. of ab- \
+(ducere duct- draw)] \
+\
+abdu'et, v.t. Kidnap ; take away (esp. a \
+woman) by force or fraud; draw (limb &c.) \
+from its natural position, [f. L abduct- see \
+prec] \
+\
+abdu'etion, n. Illegal carrying off, esp. of \
+a child, ward ; forcible carrying off of any one, \
+as of a voter ; withdrawal of limb from natural \
+position ; shrinking of sides of a wound, causing \
+it to gape ; syllogism of which the minor pre- \
+\
+\
+\
+_ AB INITIO \
+\
+miss, and therefore the conclusion, is only \
+probable, [f. L abductio (prec, -ion)] \
+ubdu'etop, n. Person who abducts another ; \
+(also a. muscle) muscle that abducts a limb. \
+\
+[as ABDUCT + -OR 2 ] \
+\
+abea'm (-em), adv. (naut.). On a line at right \
+angles to the ship's length ; a. of us, opposite \
+our centre.jabreast. [a 2 + beam] \
+\
+a'beeedar'ian (abisi-), a. & n. Arranged \
+alphabetically, as the 119th Psalm ; elementary, \
+ignorant. Pupil learning the alphabet (com- \
+mon in U. S. ). [f . med. L abecedarium alphabet \
+\
+(ABCD + -ARIUM) + -AN] \
+\
+abe'd, adv. In bed. [a 2 +bed l ] \
+\
+abele (abel, a "hi), n. The white poplar, \
+[f. Du. abeel I. OF abel earlier aubel f. LL \
+albellus dim. of albus white] \
+\
+aberglaube (G), n. Excessive belief, super- \
+stition. [G] \
+\
+a*bepdevi*ne, n. Birdfancier's name for \
+the siskin. [?] \
+\
+aberrant, a. Straying from moral stand- \
+ard ; (in nat. hist.) diverging from normal type. \
+Hence abe'PPANCE, abe'PPANCv, nn. [f. L \
+aberrant- part. st. of AB(errare stray)] \
+\
+abeppa'tion, n. A straying fx*om the path, \
+lit. and fig. ; breaking of rules ; moral slip ; \
+intellectual deficiency; deviation from type. \
+(Optics) non-convergence of rays to one focus. \
+(Astron.) displacement of heavenly body's true \
+position to observer, [f. L aberratio ; see \
+prec, -ation] \
+\
+abe't, v.t. (-tt-). Countenance or assist \
+(offence or offender ; esp. aid and a.). Hence \
+abe'tMENT, abe'ttER 1 , abe'ttOR 2 , nn. \
+Abettor is the legal and the commoner general \
+form. [f. 0_F abeter (a to+beter bait *)] \
+\
+ab e'xtra, adv. From outside. [LL] \
+\
+abeyance (-ba-), n. State of suspension, \
+dormant condition liable to revival, (of rights \
+&c. ; mostly in phrr. be in or fall into a.), [f. OF \
+abeance (d to+beer = It. & LL badare gape)] \
+\
+abhor*, v.t. (-rr-). Regard with disgust and \
+hatred, [f. L xn(horrere shudder)] \
+\
+abhd'ppenee, n. Detestation; detested \
+thing (Uattery is my a.), [foil., -ence] \
+\
+abho'ppent, a. Inspiring disgust, hateful, \
+of conduct, &c, often with to (person) ; incon- \
+sistent (from) ; (archaic) feeling disgust (of), \
+as, the Greeks were a. of excess, [f. L abhor- \
+rent- part. st. see abhor] \
+\
+abhop'pep, n. (hist.). Nickname of those \
+who signed addresses to Charles II in 1680. [ab- \
+\
+HOR-f-ER 1 ] \
+\
+abi'dance, n. Continuance, dwelling (in), \
+abiding (by rules, &c). [abide + -ance] \
+\
+abi'de, v.t. & i. (past & p.p. abode some- \
+times abided). Remain over ; continue ; dwell ; \
+stand firm ; (with by) remain faithful to, act \
+upon (terms). Wait for; encounter, sustain; \
+submit to, suffer ; (negatively as I cannot, xcho \
+can\'971) put up with (noun or infinitive). [OE \
+dbidan f. A-(\\)+bidan bide] \
+\
+abi'ding-, a. Permanent. Hence abi'd- \
+ing-LY 2 adv. [part, of abide] \
+\
+abiet-, stem of several chemical terms. Of \
+resin, or fir. [L abiet- nom. abies fir-tree] \
+\
+a'bigail, n. Lady's-maid, [character in Beau- \
+mont and Fletcher's Scornful Lady, perh. w. \
+ref. to 1 Sam. xxv. 24-31] \
+\
+abi'lity, n. Sufficient power, capacity (to do \
+something) ; legal competency (to act) ; financial \
+competency to meet a demand; cleverness, \
+mental faculty, (general in sing., special in pi.), \
+[f. OF ablett t. L habilitat- n. st. f. habilis \
+deft ; in F and E it was later corrected into \
+habileU, hability, whence the mod. form] \
+\
+ab ini'tio, adv. From the beginning. [L] \
+\
+\
+\
+ABIOGENESIS i \
+\
+a'bioge-nesis, n. Spontaneous generation. \
+(Allied words) a'biogene'tic, connected w. \
+the doctrine ; a-biogene'tiCALLY adv., by \
+spont. gen. or according to the doctrine ; \
+abid*geniST(2) n., one who believes in it; \
+abid'genous a., so produced; abid-g/env 1 \
+n., = abiogenesis. [f. Gk abios f. A- (1)+bios life \
+\
+-fGENESIS] \
+\
+a'bjeet, a. & n. Brought low, miserable ; \
+craven, degraded, despicable. (Bibl. and ar- \
+chaic) a person of the meanest condition. Hence \
+a'bjectLY 2 adv., a'bjeetNESS n. [f. L ab- \
+jectus p.p. of AB(jiccre=jacere throw)] \
+\
+abjection, n. Abasement, low estate. [F, \
+f. L abjectionem (abject, -ion)] \
+\
+ab juration, n. Action or form of re- \
+nunciation on oath, in all senses of abjure \
+(in hist. esp. of the Stuart claim), [f. L \
+abjuratio (abjure, -ation)] \
+\
+abjure*, v.t. Renounce on oath (an opinion, \
+heresy, cause, claim, or claimant) ; swear per- \
+petual absence from (one's country, &c). [f. F \
+abjurer f. L ABijurare swear)] \
+\
+ablactation, n. Weaning from the mother. \
+[f. L AB(lactatio f. lactarc suckle f. lact- nom. \
+lac milk)] \
+\
+abla'tion, n. Removal (esp. in surgery, of \
+any part of body) ; (Geol.) waste of a glacier or \
+rock by melting or water action, [f. L ablatio \
+f. AB(lat- p.p. st. of ferre carry)] \
+\
+a'blative, a. & n. The case in Latin nouns \
+that expresses source, agent, cause, instrument, \
+of action \'97from or by with the noun (usu. \
+noun; adj. with case, sense, &c.). A. absolute, \
+a construction of noun and participle inL Gram, \
+giving time or circumstances. [F ablatif f. L \
+ablativus brought from (ablat- see prec.)] \
+\
+a'blaut (or as G), n. Systematic vowel change \
+in derivation, as in sing, sang, sung. [G] \
+\
+abla'ze, adv. & pred. a. On fire ; glitter- \
+ing; excited. [a 2 +blaze] \
+\
+a'ble, a. Talented, clever; competent, \
+having the means or power (to), esp. w. parts \
+of be to supply the deficiencies of can ; legally \
+qualified ; a.-bodied seaman (abbr. a.b.), of \
+special class. Hence a'bLY 2 adv. [f. OF \
+hable, able, (now habile) f. L habilis handy \
+\{habere to hold)] \
+\
+-able, suf. f. F -able f. L -a- of first conjug.+ \
+-bill- see -ble. In F extended to vbs of all \
+conjugg. In E now appended even to native \
+vbs as bearable, nouns as clubbable, and phrase \
+vbs as get-at-able ; prob. f. confusion w. the \
+unrelated adj. able. (Meaning) able to (com- \
+fortable), able to be (eatable), fit for (salable). \
+\
+a'blet, a'blen, n. Name for the freshwater \
+fish bleak. [F ablette f. LL abula for albula dim. \
+of alba white] \
+\
+a'blings, a'blins, ai'blins, adv. (Sc. & \
+north.). Possibly, perhaps, [able + -lings] \
+\
+abloo'm, adv. & pred. a. In or into bloom. \
+\
+[a 2 +bloom] \
+\
+ablu'sh, adv. & pred. a. Blushing. [a 2+ \
+blush] \
+\
+ablution, n. (usu. pi.). Ceremonial washing \
+of person, hands, or sacred vessels; ordinary \
+personal washing ; (sing.) water in which things \
+have been washed, esp. in Catholic Ritual. \
+Hence ablu'tionAR y l a. [f . L &B(lutio f . luere \
+lut- wash, -ion)] \
+\
+a'bnegate, v.t. Deny oneself (something), \
+renounce (a right or belief), [f. L AB(negare \
+deny), -ate 3 ] \
+\
+abnegation, n. Denial ; rejection \{of doc- \
+trine) ; self-sacrifice (now oftener self -a.), [f. L \
+abnegatio (prec, -ation)] \
+\
+abnormal, a. Exceptional, irregular, de- \
+viating from type. Hence abnorma'liTY n.. \
+\
+\
+\
+ABOUND \
+\
+the quality or an instance of it, abnor'mal- \
+ly 2 adv. [earlier & F anormal f. med. L \
+anormalus corrupted f. Gk anomalos anoma- \
+lous ; but now regarded as f. L abnormis see \
+foil.] \
+\
+abnor'mity, n. Irregularity ; a monstrosity, \
+[f. L abnormitas f. AB(nonnis f. norma rule) see \
+\
+-TV] \
+\
+aboar'd, adv. & prep. On or into a ship \
+(ship either expressed or omitted) ; alongside, \
+near, esp. close or hard a. Lay (another ship) \
+a., place one's own alongside of her to fight ; \
+fall a., fall foul of (another ship). [a 2 +board] \
+\
+abo'de, n. Dwelling-place, house ; stay, habit \
+of dwelling, as in make one's a. [vbl n. of \
+abide ; cf. ride, rode, road] \
+\
+aboi'l, adv. & pred. a. A-boiling, boiling. \
+[a 2 +boil] \
+\
+aboiish, v.t. Do away with (customs, in \
+stitutions). Hence abo'lishABLE a., abo*- \
+lishER^abo'lishMENT, nn. [f. F ab o lir (-ish. 2 ) \
+f. L abolescere inceptive of abolere become \
+effete, destroy, (ab-, *olere grow)] . \
+\
+abolition, n. Doing, being done, away with. \
+In the 18th and 19th cc. w. ref. to negro slavery \
+and the movement against it, whence also \
+aboli*tioniSM(3), abolitioniST(2), nn. [f. \
+L abolitio (prec, -ion)] \
+\
+abo'minable, a. Detestable, odious, mor- \
+ally or physically loathsome ; (by conscious ex- \
+aggeration) unpleasant. Hence abo'min- \
+ableNESs n., abo'minabLY 2 adv. [F (ab., \
+abh.), f. L abominabilis f. AB(ominari f. omen) \
+deprecate ; the older spelling was regularly \
+abh., due to confusion w. homo, and the \
+violence of the meaning (inhuman instead of \
+ill-omened) results from the mistake] \
+\
+abo-minate 1 , v.t. Loathe; (by exaggera- \
+tion) dislike, [f. L abominat- ; see prec] \
+\
+abo'minate 2 (-at), a. (poet.). Abominated, \
+[f. L abominatus p.p., see abominable] \
+\
+abomina'tion, n. Loathing ; odious or de- \
+grading habit or act ; an object of disgust (to). \
+[F (abominate !, -ation)] \
+\
+aboriginal, a. & n. Indigenous, existing in a \
+land at the dawn of history, or before arrival of \
+colonists (of races and natural objects) ; (noun ; \
+pi. -als, but aborigines commoner) aboriginal \
+inhabitant or (rarely) thing. Hence abori- \
+gina'liTY n., abori'ginalL y 2 adv. [f. L \
+ab from-f origin- nom. origo origin + -al] \
+\
+ataori'gines (-ez), n. pi. (abotnginal usual for \
+sing. ; also the indefensible form abort' gine, and \
+rarely abd'rigin or -en). First inhabitants, or \
+those found in possession by colonists (also of \
+native plants and animals). [L, f. phr. ab ori- \
+gine from the beginning] \
+\
+abort, v.i. Miscarry, have premature de- \
+liver\}* of a child. (Biol.) become sterile, remain \
+undeveloped, shrink away, (of plants and ani- \
+mals\'97the race, the individual, or part of the \
+body), [f. L abort- p.p. st. of AB(oro'r\'a3 be born)] \
+\
+aborted, a. Untimely born, undeveloped ; \
+rudimentary (thorns are aborted branches). \
+[ABORT+ -ed i (2)] \
+\
+abortion, n. Miscarriage of birth; the pro- \
+curing of this, whence abortioniST(l) n. ; \
+arrested development of any organ ; a dwarfed \
+or misshapen creature ; failure of a project or \
+action, [f. L abortio (abort, -ion)] \
+\
+abortive, a. Premature (birth &c) ; fruit- \
+less, unsuccessful; rudimentary (organ &c), \
+arrested in development. Hence abortive- \
+ly 2 adv., abor'tiveNESS n. [f. L abortivus \
+(abort, -ive)] \
+\
+abou'nd, v.i. (Orig.) overflow, either of \
+vessel or of liquid. Be plentiful ; be rich (in) ; \
+teem or be infested (ivith). \{t. OF abunder t \
+\
+\
+\
+ABOUT \
+\
+abonder, habonder, f. L AB( undare, f. unda \
+wave) ; the h- common in older F and E is due \
+to confusion w. L habere have] \
+\
+abou't^adv. &prep. All round from outside, \
+as coinpass it a., He is a. my path, beat a. the \
+bush ; all round from a centre, as look or lay a. \
+you; somewhere round, as lie a., hang a. (the \
+door), the fields a. Oxford, people or objects a. us, \
+have not a penny a. me ; here and there (in, or \
+abs.), as smallpox is a., move or order a., he put \
+the tale a. , I was much put a. (distracted), dotted \
+a. the fields, man a. town ; near in number, \
+scale, degree, &c, as a. half, fifty, right, tired, \
+midnight, my size (somet. much a.); facing \
+round, as right-a. turn, the wrong ivay a., put \
+(the ship) or .go a. ; round a party, as take turns \
+a., read verse a. ; occupied with, as a. my \
+father's business, send a. his business, what are \
+you a. ?, go a. to do, am a. to do (so all fut. \
+participles) ; in connexion with, as quarrels \
+a. trade, something wrong a. it ; circuitously, \
+as he went a long way a., Ibrought it a., it came \
+a. [OE on-biitan f. on+butan without (be by+ \
+locative of ut titan out) ; orig. meaning is there- \
+fore on the outside (of)] \
+\
+abou't 2 , v.t. Change the course of (ship) to \
+the other tack. [f. about adv.] \
+\
+about-sledge, n. Largest hammer used by \
+smiths. \
+\
+abo've (-uv), adv. & prep. (Adv.) at a higher \
+\
+Eoint (w. spec, meanings ace. to context) ; over- \
+ead, on high ; up stream, upstairs ; in heaven ; \
+on the upper side ; earlier in a book or article \
+(as teas remarked a. ; the a.-cited passages ; \
+the a.); in addition (over and a.) ; at least (a. \
+a hundred). (Prep.) over, on the top of, higher \
+than (a. par; can't get a. C\'97 in music), up \
+stream from, projecting from (head a. water; \
+heard a. the tumult ; a. ground \'97 alive), further \
+north than, earlier in hist, than (not traced a. \
+third century), out of reach of (a. criticism, \
+measure, my understanding), too great or \
+good for (a. meanness, one's station), more \
+important than (a. all), of higher rank than. \
+Above is also treated as a noun in from above. \
+[f. a 2 +OE bufan (be by +uf an locative of uf- \
+cf. G auf up)] \
+\
+abo've-board, adv. & pred. a. Undis- \
+guisedly ; fair, open, [metaph. f. cards] \
+\
+a'bpacada'bra, n. Spell, magic formula ; \
+gibberish. Cabbalistic word supposed when \
+written triangularly, and worn, to cure agues \
+&c. [L, etym. dub.] \
+\
+ab o'vo, adv. (Relating tediously) from the \
+very beginning. [L; Hor. A. P. 147] \
+\
+abra'de, VTt, Scrape off, injure, (skin &c.) \
+by violent rubbing. [f. L AB(radere ras- \
+scrape)] \
+\
+abra'nehial, abra'nehiate, (ki-), a. \
+Without gills, [a- (7) + Gk bragkhia gills + -al \
+and -ate 2 ] \
+\
+abpa'sion (-azhn), n. Scraping off (of skin \
+&c. ) ; the wounded place that results, [f. L. \
+abrasio abrade, -ion)] \
+\
+abpea'st, adv. On a level and facing the \
+same way ; keeping up, not behind, (of or with \
+\
+f>rogress, thought, &c, or as prep., a. the times). \
+A 2 + BREAST !] \
+\
+abpi'dg-e, v.t. Shorten (interview &c); \
+condense or epitomize (book &c. ) ; curtail \
+(liberty ; of limbs &c. only now w. playful \
+archaism) ; deprive (person of), [f. OF abregier, \
+abreger. f. L abbreviare abbreviate] \
+\
+abridgment, -ement, n. Shortening (of \
+time or labour), curtailment (of rights) ; epi- \
+tome, abstract, [f. OF abrcgement I. abreger \
+(prec, -mentI] \
+\
+abpoa'cb (-otsh), adv. & pred. a. Pierced, \
+\
+\
+\
+ABSOLUTION \
+\
+so as to let the liquor run (of casks). [a 2 + \
+broach] \
+\
+abpoa'd (-awd), adv. Broadly, widely, in \
+different directions ; in motion (there is a \
+rumour a.) ; out of doors, in or to foreign lands ; \
+in error (all a.). Also treated as a noun in \
+from a. [a 2 +broad a. ; cf. along, at large] \
+\
+a*bPOgate, v.t. Repeal, .cancel, (law or cus- \
+tom). So abPOg-A'TiON n. [f. obs. adj. abro- \
+gate f. L abrogatus p.p. of AB(rogare propose \
+law)] \
+\
+abru'pt, a. Sudden, hasty, disconnected ; \
+steep, precipitous; (Bot.) truncated; suddenly \
+cropping out (of geol. strata). Hence abpirpt- \
+ly 2 adv., abru'ptNESS n. [f. L abruptus p.p. \
+of AB(rumpere break)] \
+\
+abpu'ption, n. Breaking away of part \
+from a mass. [f. L abruptio (abrupt, -ion)] \
+\
+abs-, pref. From, away, off. See ab-. \
+\
+a'bscess (-ses), n. Collection of pus formed \
+in a cavity of the body. [f. L abscessus a going \
+away f. ABS(cedere cess- go)] \
+\
+a'bsciss(e) (pi. -es), absci'ssa (pi. -ae), (-si-), \
+n. Portion of given line intercepted between \
+fixed point within it and ordinate drawn to \
+it from given point without it. [L abscissa \
+(linea) p.p. of AB(scindere sciss- cut)] \
+\
+absci'ssion (-si-), n. (surg.). Cutting off, \
+violent separation, [f. L. abscissio (see prec \
+-ion)] \
+\
+absco'nd, v.i. Go away secretly, fly from \
+the law. Hence abseo'ndENCE, absco'nd- \
+er *, nn. [f. L ABS(coNdere stow, f. dare put) ; \
+orig. transitive in E also, then refl., then \
+intr.] \
+\
+a'bsence, n. Being away from a place;' \
+tinie of being away ; non-existence or want \
+of; abstraction of thought (esp. in phr. a. of \
+mind) ; rollcall. [F, f. L absentia (absent- \
+absent l )] \
+\
+a'bsent 1 , a. Not present; not existing. Ab- \
+stracted in mind, whence a'bsentLY 2 adv., \
+absent-mi'ndED 2 a., absent-mi'nded- \
+ly 2 adv., absent-mi'ndedNESS, a'bsent- \
+ness, nn. [F, f. L absentcm nom. -ens part, of \
+AB(esse be)l \
+\
+abse'nt 2 , v.refl. Keep oneself away. [f. \
+F absenter f. L absentare f. absent- absent 1 ] \
+\
+absentee*, n. A person not present. A per- \
+son habitually living away from home ; esp. a \
+landlord so doing, whence absentee'iSM (2) n. \
+[absent 2 -;- -ee] \
+\
+absidal. See apsidal. \
+\
+a'bsinth, n. Wormwood, the plant or its \
+essence ; a liqueur made (orig. at least) from \
+wine and worm- wood. [f. L f. Gk apsinthion] \
+\
+a'bsolute (-oot, -ut), a. Complete, perfect, \
+pure (as a. alcohol), mere ; unrestricted, inde- \
+pendent ; ruling arbitrarily ; out of grammati- \
+cal relation (ablative a.) ; real, not merely re- \
+lative or comparative ; unqualified, uncon- \
+ditional ; self-existent and conceivable without \
+relation to other things (the a., as noun). \
+Hence a'bsoluteNESS n. [f. mid. F absolut \
+(now absolu) f. L absolutus p.p. see absolve] \
+\
+a'bsolutely, adv. Independently, in and \
+by itself; arbitrarily, without external con- \
+trol ; without qualification ; without the usual \
+accompaniments (as a transitive vb used a., \
+i.e. without its obj.); unconditionally; posi- \
+tively, though you would not believe it ; con- \
+clusive^, completely, quite ; at all (w. nega- \
+tives), [f. prec. + -L Y 2 ] \
+\
+absolution, n. Formal setting free from \
+guilt, sentence, or obligation ; ecclesiastical \
+declaration of forgiveness of sins ; remission \
+of penance ; forgiveness. [F, f. L absolutionem \
+(absolve, -ion)] \
+\
+\
+\
+ABSOLUTISM \
+\
+a'bsolutism, n. (Theol.) doctrine that God \
+acts absolutely in the affair of salvation. \
+(Polit.) principle of absolute government, [ab- \
+solute + -ism (3)] \
+\
+absolutist, n. Partisan of political ab- \
+solutism (also adj., as a. principles). A meta- \
+f)hysician who identifies subject and object. \
+ABSOLUTE + -1ST (2)] \
+\
+abso'lve (-s-, -z-), v.t. Set, pronounce, free \
+(from blame &c, of sin, from obligation &c, \
+or abs.) ; acquit, pronounce not guilty, [f. L \
+AB(solvere, solut- loosen)] \
+\
+a'bsonant, a. Discordant, alien (from), un- \
+reasonable, [f. ab- + sonant- part. st. of L .son- \
+are sound on anal, of dissonant, consonant, \
+and L absonus] \
+\
+absop'b, v.t. Swallow up, incorporate (be \
+absorbed by, lose one's identity in) ; engross the \
+attention of; suck in (liquids).; take in (heat, \
+light, &c.) by chemical or molecular action, \
+[f. F absorber f. L AB(sorbere sorpt- suck \
+in)] \
+\
+absop'bable, a. Easily sucked in. Hence \
+absopbaBiLir v n. [prec. + -able] \
+\
+absop'bed, a. Intensely engaged or in- \
+terested. Hence absop'bedLY 2 adv. [p.p. of \
+\
+ABSORB] \
+\
+absopbefacient(-shnt), a. &n. Causingthe \
+absorption or dryingup (e. g. of a tumour) ; agent \
+that does this. [f. L absorbere absorb+ \
+-facient] \
+\
+absop'bent, a. & n. Having a tendency to \
+suck in (abs., or of) ; a substance of this kind ; \
+one of the vessels in plants and animals (e. g. \
+the root tips) that absorb nutriment, [f. L ab- \
+sorbent- part. st. of absorbere absorb] \
+\
+absop*bingr\'bb a. Engrossing, intensely in- \
+teresting. Hence absop'bingfLY 2 adv. [part, \
+of absorb] \
+\
+absop'ption, n. Disappearance through in- \
+corporation in something else ; natural or \
+medical removal of tissues ; mental engross- \
+ment; sucking in of fluid, light &c, or nutri- \
+ment, [f. L absorptio (absorb, -ion)] \
+\
+absop'ptive, a. Having a tendency to suck \
+in. Hence absop'ptiveNESS n. [f. L absorpt- \
+(absorb, -ive)] \
+\
+absqua'tulate (-kwot-); v.i. Make off, de- \
+camp. [American-made jocular vb w. L pref. \
+and suf.] \
+\
+abstai'n, v.i. Keep oneself away, refrain, \
+(from). Refrain from alcohol, whence ab- \
+stai'nER * n., abstai'niNG 2 a. [f. F abstenir \
+f. L ABS(tinere tent- = tenere hold)] \
+\
+abste*mious,a. Sparing, notself-indulgent, \
+esp. in food and drink. Used of persons, habits, \
+meals. Hence abste'miousLY 2 adv., ab- \
+ste'miousNESS n. [f. L ABS(temius f. temum \
+strong drink inferred f. temulentus, temetum) \
++ -ous] \
+\
+abste'ntion, n. Keeping off (abs., or from \
+any pleasure) ; esp., not using one's vote. [F \
+\
+(ABSTAIN, -ION)] \
+\
+abstep'gcnt, a. & n. Cleansing ; a cleansing \
+substance, [f. L abstergent- part. st. of abs- \
+(tergere ters- wipe)] \
+\
+abstep'sion, n. Cleansing, purgation. [F, \
+see prec, -ion] \
+\
+abstep'sive, a. Cleansing, [f. F ( -if, -ive), \
+as prec, -ive] \
+\
+a'bstinence, n. Refraining (from any \
+pleasure, or abs. in sense of continence, fasting, \
+or, usu. total a., going without alcohol). Somet. \
+= foil. [F, f. L abstinentia (abstinent, -ence)] \
+\
+a'bstineney, n. Habit of refraining from \
+pleasures, esp. food. [f. L abstinentia see \
+prec. & -encv] \
+\
+a*bstinent,a. Practising abstinence. Hence \
+\
+\
+\
+ABYSM \
+\
+a'bstinentLY 2 adv. [F, f. L abstinent- (ab- \
+stain, -ent)] \
+\
+a'bstpact 1 , a. Separated from matter, \
+practice, or particular examples, not concrete ; \
+ideal, not practical ; abstruse ; (with the, as \
+noun) the ideal or theoretical way of regarding \
+things (in the a.). Hence a'bstraetLY 2 adv., \
+a'bstPactNESS n. [f. L abstractus p.p. of \
+ABB(trahere draw)] \
+\
+a'bstpact 2 , n. Essence, summary; abstrac- \
+tion or abstract term, [see prec] \
+\
+abstract 3 , v.t. Deduct, remove, (an obj. \
+much &c is somet. omitted); (euphemism) \
+steal ; disengage (obj. attention &c. somet. \
+omitted) from ; consider apart from the con- \
+crete; summarize, [f. abstract 1 ] \
+\
+abstracted, a. Withdrawn in thought, \
+not attending. Hence abstractedNESs n. \
+\
+[-ED 1 ] \
+\
+abstractedly, adv. In the abstract, \
+ideally ; separately (from\'97 esp. after consider) ; \
+in an absent-minded way. [-ly 2 ] \
+\
+abstraction, n. Taking away, with- \
+drawal ; (euphemism) stealing. Process of \
+stripping an idea of its concrete accompani- \
+ments ; the idea so stripped, something vision- \
+ary, whence abstraction - monger n. \
+Absence of mind. [F, f. L abstractionem \
+\
+(ABSTRACT 1 , -ION)] \
+\
+abstpu'se, a. Hard to understand, pro- \
+found. Hence abstru'seLY 2 adv., ab- \
+stru'seNESS n. [f. L ABS(trusus p.p. of trudere \
+push)] \
+\
+absup'd, a. Incongruous, unreasonable, \
+ridiculous, silly. Hence absup'dLY 2 adv. [f. \
+F absurde f. L absurdus (ab- utterly +surdus \
+deaf, dull)] \
+\
+absurdity, n. Folly, unreasonableness; \
+an absurd statement or act. [f. F absurdity f. \
+L absurditatem (absurd, -ity)] \
+\
+abu'ndance, n. Quantity more than suf- \
+ficient, plenty; overflowing emotion (a. of the \
+heart) ; many people (there are a. who) ; afflu- \
+ence, wealth. [OF (ab-, hab-, see abound), f. \
+L abundantia (as foil., -ance)] \
+\
+abu'ndant, a. More than sufficient, plenti- \
+ful; rich [in). Hence abu'ndantLY 2 adv. \
+[OF (ab-, hab-, see abound), f. ~Labundant- part. \
+st. (abound, -ant)] \
+\
+ab ur'be co'ndita, adv. (abbr. A. U. a). \
+Counting from the foundation of Rome. [L] \
+\
+abu'se 1 (-uz), v.t. Misuse, make bad use \
+of; deceive (archaic, but still used esp. in \
+pass.) ; maltreat (archaic); revile, [f. F abuser \
+f. L *abusare f. ab(\'abs- p.p. st. of uti use)] \
+\
+abu'se 2 (-us), n. Misuse, perversion (of) ; an \
+established unjust or corrupt practice. Re- \
+viling, whence abu'sivE a., abu'siveLY 2 \
+adv., abu'siveNESS n. [f. F abus f. L abusus \
+n. f. abus- see prec. \
+\
+abu't, v.i. (-tt-). Have a common boundary \
+with, border, (upon ; or somet. without prep, \
+as trans, vb ; of estates or countries) ; end on \
+or against, lean on, (of parts of a building), \
+[mixed meanings f. OF abouter place end to \
+end (d to+bout end), and OF abuter touch \
+with one end (a to+but end)] \
+\
+abu'tment, n. A lateral support ; (esp. in \
+architecture) that on which an arch or bridge \
+rests ; point of junction between such support \
+and thing supported, [abut + -ment] \
+\
+abu'ttep, n. (In law) owner of the adjoining \
+property. [ABUT + -ER 1 ] \
+\
+aby, abye*, v.t. (archaic; past and p.p. \
+abought). Redeem, pay the penalty of, (an \
+offence ; usu. w. dearly, sore), [earlier abuggen, \
+abeggen, f. A- (1) away+BUY] \
+\
+aby'sm, n. Earlier form, still used in \
+\
+\
+\
+ABYSMAL \
+\
+poetical style, of abyss. [OF abtsme f. LL \
+*abyssimus superl. of abyssus abyss] \
+\
+aby'smal, a. Bottomless, esp. fig., as a. \
+ignorance. Hence abysmalLY 2 adv. [abysm \
++ ^al] \
+\
+aby'ss, n. The primal chaos, bowels of the \
+earth, lower world ; a bottomless chasm, deep \
+gorge; depth (a. of light). [Earlier abime, \
+abysme, f. F see abysm, later corrected after \
+L abyssus f. Gk abussos bottomless] \
+\
+aby'ssal, a. More than 300 fathoms below \
+sea surface (water, zone, mud). [f. LL \
+abyssalis f. abyssus ; see abyss and -al] \
+\
+ac-, pref. to words in c-, k-, qu-. Properly \
+the L assimilated form of ad- to, in addition. \
+In passing through OF it became a- ; this being \
+rectified later, ac- was mistakenly written also \
+for a- representing other preff. (see a-), e.g. \
+OE a- (on) in acknowledge. \
+\
+-ac, suf. forming adjj., which are often also \
+(if not only) used as nouns. From Gk -akos, \
+the modification of adj. suf. -kos appended to \
+nouns in -ia, -ios, -ion, and imitated in L. E \
+wds in -ac may be f. Gk (-akos), L (-acus), or F \
+(-ague). \
+\
+aca'cia (-sha), n. Genus of trees, of Mimosa \
+tribe, yielding gum arabic ; the Locust-tree \
+or False Acacia, grown in England for orna- \
+ment ; gum arabic. [L, f. Gk akakia ; perh. \
+f. ake point (in ref. to its thorns)] \
+\
+a'cademe, n. (Prop.) = Academus (see aca- \
+demy) ; (used by mistake in poetic style for) \
+the Gk Academy, a college, university. [Gk \
+Akademos see academy ; mistake perh. caused \
+by Milton's ' grove of Academe ', P. R. iv. 144] \
+\
+academic, a. & n. Belonging to or agreeing \
+with the philosophic school of Plato (academy), \
+(w. ref. to some of his successors' views) \
+sceptical; an ancient Platonist. Scholarly, \
+(and by implication) abstract, unpractical, \
+cold, merely logical ; (as sing, noun) member \
+of a university, one too much enslaved to the \
+principles (in painting &c.) of an academy; \
+<as pi. noun) merely theoretic arguments, \
+university robes. Of an academician or \
+academy (a. rank), [f. med. L academic us \
+see academy] \
+\
+academical, a. Belonging to a college \
+or university ; (as pi. noun) college costume \
+(commoner than academics), [prec. 4- -al] \
+\
+academically, adv. Theoretically, un- \
+practically ; rarely also in any of the senses of \
+the two precc. [prec. + -LY 2 j \
+\
+aca'demi'cian, n. Member of an Academy \
+or art society, esp. of the Royal Academy of \
+Painting &c. [f. F acadimicien f. med. L \
+academicus (foil.) ; see -ian] \
+\
+Aea'demy, n. The garden near Athens in \
+which Plato taught; Plato's followers or \
+philosophical system; a place of study, in- \
+cluding universities, but gen. used preten- \
+tiously or depreciatingly of something between \
+a school and a university ; a place of training \
+in a special art (Royal Military A.) ; a society \
+for cultivating literature, art, &c, of which \
+membership is an honour, esp. the Royal A. of \
+Painting &c. ; the R.A.'s annual exhibition, \
+[f. F acadimie f. Lf. Gk akademeia (Akademos \
+the man or demigod f. whom Plato's garden \
+was named)] \
+\
+Aca'dian, a. & n. Nova-Scotian. [f. F \
+Acadie Nova Scotia+ -an] \
+\
+-acal, compd suf. = -ac+ -al. Adjj. in -ac \
+being often used as nouns also, -al was ap- \
+pended to distinguish the adj. (demoniac, \
+-acal), and even when there was no noun \
+(heliacal). In adjj. -acal often differs f. -ac in \
+suggesting looser connexion w. the orig. noun ; \
+\
+\
+\
+ACCENT \
+\
+e.g., cardiac arteries (of the heart), cardiacal \
+herbs \{having influence on the h.). \
+\
+a'caleph(e), n. Jellyfish, medusa, sea- \
+nettle. [Gk akalephe nettle] \
+\
+acalyc- (akal- or akal-), stem of several bot. \
+terms. Without calyx, [a- (7)+Gk kalux -ukos \
+flower-cup] \
+\
+aca'nthus, n. A genus of plants, esp. Bear's \
+Breech or Brank-Ursine ; a conventional repre- \
+sentation of its leaf used in Gk architecture. \
+Hence acanth(o)- comb. form. [L, f. Gk \
+akanthos (akantha thorn f. ake point)] \
+\
+aca'psular, a. Not having capsule, [a- (7) \
++L capsula capsule+ -ar x ] \
+\
+acar'diac, a. (physiol.). Without a heart, \
+[f. Gk akardios f. a- (l)+kardia heart+ -ac] \
+\
+aearpellous, a. Without carpels, [a- (7), \
+carpel, -ous] \
+\
+acap'pous, a. (bot.). Not producing fruit. \
+[a- (7)+Gk karpos fruit+ -ous] \
+\
+aeataleetie, a. & n. (A verse) not docked \
+of a syllable, complete, [f. LL acatalccticus \
+f. Gk akatalektos, see a- (7), catalectic)] \
+\
+aca'talepsy, n. Incomprehensibility \
+\
+(philos. term), the quality in the object answer- \
+ing to agnosticism in the subject. So a cata- \
+leptic a. [f. med. L f. Gk akatalepsia f . a- (7) + \
+kata thoroughly +lepsis grasping (lab- st. of \
+lambano take)] \
+\
+acau'lous, a. (also -e'seent, -ine, -ose) \
+(bot.). Apparently stemless, having very short \
+stem, [a- (7)+L caulis stem+ -ous] \
+\
+Acca'dian, a. & n. Of Accad in Shinar (Gen. \
+x. 10) ; a language preserved in cuneiform in- \
+scriptions. \
+\
+accede (-ks-), v.i. Enter upon (an office) ; \
+join (a party) ; assent to (opinion or policy). \
+Abs., or w. to if the office &c. is stated, in all \
+senses, [f. L AC(cederc cess- come)] \
+\
+accelera'ndo (-ks-), musical direction. \
+Gradually increase speed. [It.] \
+\
+accelerate (-ks-), v.t. & i. Make quicker; \
+cause to happen earlier ; become swifter (of a \
+motion or process), [f. obs. adj. accelerate f. \
+L AC(celerare f. celer swift) ; see -ate 2 > 3 ] \
+\
+accelerated, a. (physics). Progressively \
+quicker (a. motion). Hence aeceleratedLY 2 \
+adv. [p.p. of prec] \
+\
+accelerating", a. Causing progressively \
+quicker motion (a. force), [-ing 2 ] \
+\
+acceleration (aks-), n. Making quicker; \
+being made quicker. (Physics) rate of increase \
+of velocity per time unit, as with falling bodies. \
+(Astr.) a. of stars, time gained daily by them \
+over sun ; a. of planets, increased velocity \
+from aphelion to perihelion ; a. of moon, \
+increase in speed of mean motion ; a. of tides, \
+amount of local advance on calculated time, \
+[f. L acceleratio (accelerate, -ion)] \
+\
+aeee'lerative, a. Tending to increase \
+speed, quickening, [f. accelerate + -ive] _ \
+\
+accelerator, n. Person or thing that in- \
+creases any thing's speed ; esp., one of a class of \
+nerves and muscles, [accelerate + -or 2 ] \
+\
+a'eeent \\ n. Prominence given to a \
+syllable, whether by higher musical pitch \
+(ancient Gk and L, Swedish and Norw.), or \
+by stress (most mod. langg., but perh. not F). \
+Three marks called acxde ('), grave ( v ), and \
+circumflex C or *) accents (systematically em- \
+ployed only in Gk, and to .a less degree in F) \
+used for various purposes, e.g. to indicate \
+syllabic pitch (Gk), quality of vowel sound \
+(F), etymological hist. (F, E), metrical stress, \
+syllabic stress (dictionaries &c), the fact of \
+a letter's not being silent, or conventional \
+distinction between homonyms (F). Indi- \
+vidual, local, or national mode of pronuncia- \
+\
+\
+\
+ACCENT \
+\
+\
+\
+ACCOMMODATE \
+\
+\
+\
+tion; modulation to express feeling ; in pi., \
+speech (poet.). (In prosody) rhythmical \
+stress. (Mus.) stress recurring at intervals. \
+(Fig.) intensity, sharp distinction. [F, f. L \
+AC(centus -us = cantus singing) lit. transl. of \
+Gk prosodia (pros to + ode song)] \
+\
+accent 2 , v.t. Pronounce with accent, em- \
+phasize (word or syllable) ; put the written \
+accents on ; heighten, make conspicuous, [f. \
+obs. F accenter see prec] \
+\
+accentual, a. Of accent; a. prosody or \
+verse, of which the principle is accent or stress, \
+not quantity. Hence aeeentualLY 2 adv. \
+[f. L accentus accent l + -al] \
+\
+accentuate, v.t. = accent 2 , but more used \
+than it in the fig. sense, [f. med. L accentuare \
+(accentus accent 1 ), -ate 3 ] \
+\
+acce'ntua'tion, n. Accenting (all senses \
+from accent), [f. med. L accent uatio see ac- \
+centuate, -ion] \
+\
+accept, v.t. Consent to receive (gift), \
+answer affirmatively (offer, invitation, suitor) ; \
+regard with favour (esp. unfair favour, as a. \
+the person of, a. persons) ; receive as adequate \
+(a. service of writ), allow the truth of, believe ; \
+undertake (office) ; take responsibility for, \
+agree to meet, (bill of exchange). Of may be \
+added (exc. w. service of xvrit, bill) with a \
+slight suggestion of formality or condescension. \
+Hence aeeeptER 1 ^ [f. F accepter f. L ac- \
+ceptare frequent, of AC(cipere = capere take)] \
+\
+acceptable (also a'-), a. Worth accepting, \
+pleasing, welcome. Hence or cogn. ac- \
+ce*ptabLY 2 adv., aeeeptaBiLiTY, acce'pt- \
+ableNESS, nn. [F, f. L acceptabilis (accept, \
+-able)] \
+\
+acce'ptance, n. Consent to receive (gift, \
+payment, pleasure, duty) ; favourable recep- \
+tion (act. & pass.), approval, belief; a. of \
+persons, partiality ; engagement to meet a \
+bill ; a bill so accepted. [OF ; see accept and \
+-ance] \
+\
+acceptation, n. A particular sense given \
+to a word or phrase"; its generally recognized \
+meaning. [F, f. LL acceptationem (accept, \
+-ation)] \
+\
+accepted, a. Generally recognized or \
+believed in (Free & A. Masons, see free 1 - \
+mason). Hence acceptedLY 2 adv. [-ed 1 ] \
+\
+acceptor, n. One who accepts a bill (pre- \
+ferred to accepter in this sense). [AF acceptour \
+f. L acceptorem (accept, -or 2 )] \
+\
+a'ceess (also -e's, see etym.), n. Approach; \
+addition ; right or means of approaching (to) ; \
+being approached (easy of a.); advance (a. \
+and recess) ; passage, channel, doorway ; ad- \
+hesion, growth, (usu. now accession) ; attack \
+or outburst (of illness, anger, emotion). [The \
+doubtful accent is due to double derivation. \
+1. (sense attack, pron. a - -) f. F acces f. L ac- \
+cessus n. f. AC(cedere cess- come) ; 2. (other \
+senses, pron. akse's) direct f. L access us. The \
+two pronunciations, however, have now \
+ceased to be significant] \
+\
+a'ceessapy (also akse's-), n. & pred. a. (see \
+also accessory). Helper in any act, one \
+privy to it (as pred. a., be a., were made \
+accessary) ; accompaniment, adjunct, [f. ac- \
+cess + -ary ! formed as f. L access- like \
+emissary, adversary, the adj. (first spelt \
+-ary) being corrected later to -ory on L ac- \
+cessoriiis drew the noun after it, and the two \
+spellings are often confused] \
+\
+acce'ssible, a. Able to be reached or \
+entered (abs., or to); open to influence, to the \
+influence of, (to). Hence accessiBi'LiTY n., \
+aeeessibLY 2 adv. [F, f. L accessibilis (ac- \
+cede, -ble)] \
+\
+\
+\
+accession, n. Coming into presence or \
+contact; coming into an office or condition \
+(as manhood) ; being added ; assent ; thing \
+added, addition ; (in law) improvement or \
+natural growth of property. [F, f . L accessionem \
+(accede, -ion)] \
+\
+a'eeessory (also akse's-), a. & n. (see \
+also accessary). Additional, subordinately \
+contributive (of things), adventitious ; a thing \
+of that character, esp. in pi. the accessories. \
+[f. LL accessorixis adj. (accede, -ory)] \
+\
+a'ceidence, n. The part of grammar, or a \
+book, dealing with inflexions (i. e. the accidents \
+or non-essentials of words) ; the elements of \
+any subject, [corruption of accidents = F pi. n. \
+accidens transl. of L neut. pi. accidentia the \
+things that befall (a word), see accident ; or \
+perh. direct f. accidentia treated as fern. sing, \
+noun] \
+\
+a'ceident, n. Event without apparent cause, \
+unexpected (so chapter of aa., unforeseen \
+course of events) ; unintentional act, chance, \
+fortune, (by a.) ; mishap ; irregularity in \
+structure ; a property not essential to our \
+conception of a substance (so of material \
+qualities of bread and wine after transubstan- \
+tiation) ; a mere accessory. [F, f. L accidens \
+-entis part, and n. f. AC(cidere = cadere fall)] \
+\
+accidental, a. & n. Happening by chance, \
+undesignedly, or unexpectedly ; occasional ;. \
+not essential to a conception (so also an a. as \
+n.) ; subsidiary. (Mus.) a, sharps, flats T \
+naturals, and a. as noun, signs attached to- \
+single notes, not in signature. (Optics) a, \
+colours, those presented by subjective sensa- \
+tion, not external. (In painting) a. lights, \
+and accidentals as n., effects of other than \
+ordinary day light. [F (now -el), prob. f. LL \
+accidentalis f. accidens see prec] \
+\
+accidentally, adv. By ehance, uninten- \
+tionally. [-LY 2 ] \
+\
+acei'pitpal (aksip-), a. Hawklike ; rapa- \
+cious ; keensighted. [f. L accipitr- nom. -ter \
+hawk + -al] \
+\
+acclai'm \\ v. t. Applaud loudly or enthusias- \
+tically; (w. obj. and compl.) hail as (king, \
+winner, saviour; acclaimed him king), [f. L \
+AC(elamare shout), spelling assimilated to \
+claim] \
+\
+acclai'm 2 , n. Shout of applause, [f. prec] \
+\
+acclamation, n. Loud and eager assent to \
+a proposal (voted, carried, by a.) ; shouting in \
+a person's honour (usu. pi.), [f. L acclamatio \
+(prec, -ation)] \
+\
+aeelima'tion, n. = acclimatization (see foil.), \
+or distinguished from it as a natural process, \
+not imposed on animals by man. [syncopated \
+for acclimatation (acclimate f. F acclimater \
+\
+ACCLIMATIZE)] \
+\
+acclimatize (also a'cclimate), v.t. & i. \
+Habituate (animals, plants, oneself) to new \
+climate ; (rarely) become so habituated. Hence \
+aecli'matizA'TioN (also acclimata'tion) \
+n. [f. F acclimater (d to+climat climate) + \
+-ize] \
+\
+aeelrvity, n. Upward slope of a hill (cf. \
+declivity), [f. L acclivitas f. AC(clivis f. clivus \
+slope)] \
+\
+accola'de (-ad or-ahd), n. Sign at bestowal \
+of knighthood, whether embrace, kiss, or \
+stroke on shoulder with flat of sword. (Mus.) \
+vertical line or brace coupling staves. [F, f. \
+It. accollata n. from p.p. st. of accollare (ac- + \
+L collum neck)] \
+\
+aeeo'mmodate, v.t. Adapt (thing or person \
+to another) ; prove such adaptation in, har- \
+monize, (somet. w. implication of sophistry) i \
+reconcile, settle differences between ; compose \
+\
+\
+\
+ACCOMMODATING \
+\
+\
+\
+8 \
+\
+\
+\
+ACCOUTRE \
+\
+\
+\
+(quarrel) ; equip, supply, (person with) ; oblige, \
+confer favour on ; find lodging for. [f. obs. \
+adj. accommodate f. p.p. of L AC(commodare \
+-at- f. commodus fitting = COM- + modus mea- \
+sure)] \
+\
+aooo'mmodating , 9 a. Obliging, easy to \
+\'95deal with, pliable, lax. Hence acco'mmo- \
+datinffLYSadv., [-ing2] \
+accommodation, n. Adjustment (e. g. of \
+eyes for various distances) ; adaptation of any- \
+thing to a purpose or meaning different from \
+the original: self -adaptation ; settlement, com- \
+promise ; serviceable thing, convenience (so in \
+comp. as a.-road); lodgings, entertainment ; \
+money loan (so in a. -bill *). [F f. L accommo- \
+dationem (accommodate, -ion)] \
+aceo-mpaniment (-urn-), n. Appendage, \
+thing that attends another. (Mus.) subsidiary \
+part vocal or instrumental, usu. the latter as \
+used to support the voice, [f. F accompagne- \
+ment (foil., -ment)] \
+\
+acco'mpany (-um-), v.t. Supplement (a \
+thing with, as word w. blow) ; go with, escort, \
+attend ; coexist with (of things), characterize. \
+(Mus.) support (singer, player, piece) by per- \
+forming additional part, whence aceo'm- \
+paniST (also -nyist) n. After pass., by has \
+almost ousted older with, now only used \
+when accompanied = combined, [f. F accom- \
+pagner (a to+compagne companion)] \
+\
+accd'mplice, n. Partner, usu. subordinate, \
+in crime, [f. earlier & F complice (whether \
+by mistake from a complice, cf. newt, or by \
+assim. to foil.) f. L comphcem nom. -plex closely \
+connected (com- +plic- fold)] \
+accd'mplish, v.t. Fulfil, perform, com- \
+plete, finish. Perfect (a person) in graceful \
+acquirements, whence aeeo'mplishED 1 a. \
+ff. OF acomplir f. LL AC(complere complete) ; \
+gee^SH 2 ] \
+\
+acco'mplishment, n. Fulfilment, comple- \
+tion ; thing done or attained, achievement ; \
+faculty that perfects a person for society, \
+(disparagingly) merely superficial acquire- \
+ment, [f. F accomplissement ; see prec, \
+-ment] \
+\
+aceompt, -ant, archaic for account, -ant. \
+aeeop'd 1 , v.t. & i. Be in harmony or con- \
+sistent (abs., or with ; chiefly of things) \'95, \
+grant (indulgence, request, welcome, &c). [f. \
+OF acorder f. LL AC(cordare f. cor cordis \
+heart)] \
+\
+aeeop'd 2 , n. Consent (with one a.), mutual \
+agreement ; treatj* of peace ; harmonious \
+correspondence in "colour, pitch, tone ; assent \
+(of one's own a.), [f. OF acord agreement (\'ab- \
+corder accord 1 )] \
+\
+aceop'danee, n. Conformity, agreement, \
+esp. in phr. in a. xcith. [OF acordance (as \
+prec, -ance)] \
+\
+aeeop'dant, a. In tune, agreeing, (abs., or \
+with). Hence aeeoP'dantLY 2 adv. [OF \
+acordant as prec, -ant] \
+\
+! aceop'ding, adv. (only now in the compd \
+conj. a. as, and the compd prep. a. to). A. \
+as : in proportion as (of a process varying w. \
+another) ; in a manner depending on which \
+of certain alternatives is true. A. to: in a \
+manner consistent with or degree proportioned \
+to ; on the authority of. [-ing 2 ] \
+\
+aeeop'dingly, adv. As the (stated) circum- \
+stances suggest ; therefore ; a. as = according \
+\
+as. [-LY 2 ] \
+\
+aeeop'dion, n. Portable musical instru- \
+ment made of bellows, keys, and metal reeds. \
+Hence aeeop'dioniST(3) n. [f. It. and LL \
+accordare attune see ACCORD l ; termination \
+imitated f. clarion] \
+\
+\
+\
+aeed'st \\ v.t. Make up to and address, open \
+conversation with. [f. F accoster f. LL ac- \
+(costare f. costa rib)] \
+\
+aeed'st 2 , n. Greeting, opening remark, [f. \
+prec] \
+\
+accowchement (-ooshmong, or as F), n. \
+Lying-in, delivery m child-bed. [F] \
+accoucheur' (-oosher), n. (fern, -exise pr. -erz). \
+Man-midwife, midwife. [F] \
+aeeou'nt 1 , v.t. & i. Consider, regard as, \
+(followed by obj. & complement or infin. ; a. \
+him a hero, wise, to be guilty). Be accounted \
+of, be esteemed (alw. w. little, much, Sec). \
+Account for: give reckoning (of money held \
+in trust); answer for (conduct, performance \
+of duty) ; explain the cause of ; serve as ex- \
+planation of (that accounts for it) ; (sport) be \
+responsible for the death of, kill. [f. OF aconter \
+f. LL accomptare for *AC(compxitare L = com- \
+pute) ; the form aceompt is due to 14th-c. \
+correction in F passing into E, the oldest E \
+being acunte (see AC-)] \
+\
+aeeou'nt 2 , n. (1) Counting, calculation, in \
+phrr. cast accounts (reckon up), money of a. \
+(names not of coins, but of sums, as guinea). \
+(2) Reckoning of debit and credit, in money or \
+service. Statement of money received and \
+expended, with balance ; so open or close an \
+a. with, render or send in, pay or settle, an a. ; \
+a. current (whence a/c = account), one kept \
+going w. occasional entries; joint a., in which \
+two persons not otherwise partners count as \
+one; keep aa., enter all expenditure for com- \
+parison w. income ; balance or square aa. with \
+some one, receive or pay the balance due ; cash, \
+profit-and-loss, &c, a., headings of subdivision \
+in ledger; sale for the a., on the Stock Exch., \
+not for cash, but payable at next periodic \
+settlement; A in a. xcith B, having credit \
+relations with ; for a. of, to be sold for (person) ; \
+OTi a., as interim payment; on one's a., for \
+his service; on ones own a., for and at one's \
+own purposes and risk, whence generally on a. \
+of, because of, and on no a., by no means, \
+certainly not. A favourable result of the \
+reckoning, profit; find one's a. in, profit by, \
+turn to a., make useful. Statement of ad- \
+ministration as required by creditor ; ask, \
+demand, yield, render, an a., call or bring to \
+a. ; extended from money to conduct generally, \
+so the great a., Day of Judgment, gone to his \
+a., dead ; give a. of, find cause of, explain, (in \
+sport) give a good a. of, dispose of (opponents, \
+game) successfully. (3) Estimation. Person \
+or thing of, or held in, some or no a. ; make \
+little a. of; take into, leave out of, a. ; take a. \
+of; lay one's a. with, include in one's calcu- \
+lations, expect. (4) Narration, report, descrip- \
+tion, of event, person, &c. [f. OF acont (a to 4- \
+cont f. LL comptum for computum f. L com- \
+putare compute)] \
+aeeou'ntafole, a. Bound to give account, \
+responsible, (for things, to persons, or abs.); \
+explicable (somet. followed by for). Hence \
+aeeountaBiLiTY, aeeoirntableNESS, nn., \
+\
+[f. ACCOUNT 1 + -ABLE] \
+\
+aeeou'ntant, n. (Law) one liable to render \
+account; defendant in an action of account. \
+Professional keeper and inspector of accounts : \
+a.-general, chief a. in public offices; whence \
+aeeoirntantSHiP n. [F (15th c.) accomptant \
+part, of accompter OF aconter account 2 J \
+\
+aeeou'tpe (-ooter), v.t. (-tring, -tred). Attire, \
+equip, esp. w. special costume (chiefly used in \
+p.p.). [f. med. F accoustrer (now accoutrer) \
+etym. dub., perh. AC- + coustre vestry-keeper \
+and so rober which is perh. f. LL *cxistor f. \
+custos guardian] \
+\
+\
+\
+ACCOUTREMENT \
+\
+accou'tpement (-obtrem-), n. (usu. in pi.). \
+Equipment, trappings. (Mil.) soldier's outfit \
+other than arms and garments, e. g. belt, straps, \
+valise. [MF accoustrement (prec, -ment)] \
+\
+aeepe'dit, v.t. Gain belief or influence for \
+(adviser, advice); send out (ambassador, &c.) \
+with credentials to person, to or at a court; \
+a. thing (saying, policy) to person, or a. him \
+loith it, put it down to him. [f. F AC(crediter f. \
+credit credit)] \
+\
+aeepe'dited, a. Officially recognized (per- \
+sons); generally accepted, orthodox, (beliefs), \
+[p.p. of prec] \
+\
+aeepe'te 1 , v.t. & i. Grow together or into \
+one ; form round or on to, as round a nucleus ; \
+attract (such additions), [f. L accret- p.p. st. of \
+AC(cresce?'e grow)] \
+\
+aeepe'te 2 , a. (bot.). Grown into one with \
+something else. [f. L accretus p.p. see prec] \
+\
+aeepe'tion, n. Growth by organic enlarge- \
+ment; the growing of separate things (as \
+particles) into one ; the whole resulting from \
+this ; adhesion of extraneous matter to any- \
+thing ; the matter so added ; (Law) == accession, \
+also increase of legacy &c by share of failing \
+co-legatee, [f. L accretio (accrete \\ -ion)] \
+\
+accrue* (-00), v.i. Fall (to one, from a \
+thing) as a natural growth, advantage, result ; \
+esp. of interest on invested money. Hence \
+accPUE'D 1 (2) a. [f. obs. accrue n. = F accrxie \
+p.p. of accroitre OF acreistre f. L accrescere \
+\
+ACCRETE *] \
+\
+accumulate, v.t. & i. Heap up, gain by \
+degrees, (usu. fig., a fortune, ill will, &c, or \
+abs.), amass, make money; take (University \
+degrees) by accumulation (obj. expressed, or \
+abs.), i. e., more than one step at a time ; grow \
+numerous, form an increasing mass or heap \
+(lit. and fig., as dirt, disasters, had accumu- \
+lated), [f. obs. accuvudate a. f. L &.c(cumidare \
+f. cumxdus heap), -ate 2 > 3 ] \
+\
+accumulation, n. Collection (act. or \
+pass.), amassing; money-making; growth of \
+capital by continued interest ; combination of \
+distinct acts into one (degrees, see prec, or \
+church services &c); a mass (as snow, papers, \
+property), [f. L accumxdatio (prec, -ion)] \
+\
+accumulative, a. Arising from accumu- \
+lation (a. proof, evidence, now being ousted by \
+cumulative); so arranged as to accumulate \
+(sinking fund) ; acquisitive, given to hoarding. \
+Hence aeeu'mulativeLY 2 adv. [as prec + \
+-ive] \
+\
+accu'mulatop, n. One who collects; \
+money-maker; taker of degrees by accumu- \
+lation; apparatus for storing electricity. [L \
+(as prec, -or 2 )] \
+\
+a'ccupate, a. Careful, precise, in exact \
+conformity with a standard or with truth. \
+Hence a*eeuPACY n., a'eeupateLV 2 adv. [f. \
+L AC(curare f. cura care), -ate 2 ] \
+\
+accursed (-id), aecup'st, a. Lying under \
+a curse, ill-fated ; involving misery, execrable, \
+detestable, [p.p. f. obs. accxcrse earlier acurse \
+(a- imitated as intensive f. OE ar- see a- (1) + OE \
+cursian curse v.)] \
+\
+accu'sal, n. Sometimes used for foil. [f. ac- \
+cuse + -al (2)] \
+\
+accusa'tion, n. Accusing ; being accused ; \
+a charge of offence or crime ; indictment. [F, \
+f. L accusationem (accuse, -ion)] \
+\
+accusative, a. & n. A. case (or a. as noun), \
+the grammatical case used in Gk & L for the \
+goal of motion or obj. of action ; in uninflected \
+langg., applied to the wd that stands as obj., \
+though with no mark of case. Hence ac- \
+eusati'VAL adj., aeeu'sativeLY 2 adv. [F \
+(-if, -ive), f. L accusativus lit, transl. of Gk \
+\
+\
+\
+j!J ACETATE D \
+\
+aitiatike causal (also accusing), the goal or \
+obj. being the final cause of motion or action] \
+\
+accusatorial, a. A. procedure See., in \
+which prosecutor and judge are not the same, \
+opposed to inquisitorial, [as foil. + -al] \
+\
+accu'satopy, a. A. language, manner &c, \
+conveying or implying accusation, [f. L ac- \
+cxisatornus (foil., -ory)] \
+\
+accu'se (-z), v.t. Charge with a fault, indict, \
+(person), whence p.p. as noun, the accused; \
+blame, lay the fault on, (person or thing, as \
+the times). A. as offender, of offence. Point \
+to (subj. evidence, &c, obj. a person). Hence \
+accu'SERi n., aeeu'singxY 2 adv. [earlier \
+acuse f. OF acuser f. L AC(cusare-causare f. \
+caxisa cause)] \
+\
+accu'stom, v.t. Habituate (oneself, person, \
+or thing, to do or to; commoner in pass.), \
+[earlier acustom (see AC-) f. OF acostximer (now \
+accoutumer) (a to, custom)] \
+\
+accu'stomed, a. In vbl senses ; also, \
+usual, [p.p. of prec in obs. sense make usual] \
+\
+ace, n. The one on dice ; ambs ace, throw of \
+two ones, deuce ace, of two and one (formerly \
+two ones); the one on dominoes, cards; one \
+point at racquets &c ; the "smallest possible \
+amount, hair's-breadth, as xcithin an ace of; \
+ace-point, first or starting point on backgam- \
+mon table. [F as f. L as unity] \
+\
+-acea, L suf. freely used to form names \
+(neut. pi. agreeing w. animalia) for orders of \
+animals; the names are L and pi., the sing, \
+being supplied by E adjj. in -ace an used as \
+noun ; so the Crustacea, a crustacean, [f. L \
+-aceus (-ac- + -e-us) compd adj. formative] \
+\
+-aceae, L suf. freely used to form names \
+(fern. pi. agreeing w. plantae) for orders pf \
+plants, [f. -aceus see prec] \
+\
+-acean, a. & n. suf. As adj., = -aceous; as \
+n., see -acea. [f. L -aceus see -acea + -an] \
+\
+Aceldama (-k-), n. Field of bloodshed, \
+scene of slaughter. [Acts i. 19] \
+\
+-aceous, suf. freely used to form adjj. to the \
+Xat.-Hist. nouns in -acea, -ace^e, as crustace- \
+ous, rosaceous, [f. L -aceus see -acea + -ous] \
+\
+acephal-, stem of several bot., zool., & eccl. \
+terms. Headless, [f. LL f. Gk akephalos f. a- \
+(l)+kephale head] \
+\
+ace'phalous, a. Headless ; recognizing no \
+chief; (Zool.) having no part of body specially \
+organized as head; (Bot.) with head aborted \
+or cut off; (in prosody), (verse) wanting the re- \
+gular first syllable, [as prec. -f -ous] \
+\
+a'cerbate, v.t. Sometimes used for ex- \
+acerbate. \
+\
+acep'bity, n. Astringent sourness, harsh \
+taste ; bitterness of speech, manner, or temper, \
+[f. F. acerbity f. L acerbitatem (acerbus sour- \
+tasting, -ty)] \
+\
+a'cepvate, a. Growing in compact clusters \
+(of spines, &c). [f. L acervare (acervus a \
+heap), -ate 2 ] \
+\
+ace'scent, a. Turning sour, rather sour, lit. \
+and fig. [f. L acescere inceptive of acere be \
+sour (ac- sharp), -ent] \
+\
+aeet-, stem of many chem. terms. Vinegar. \
+[L acetum vinegar (acere be sour)] \
+\
+acetabulum, n. (pi. -la). (Rom. antiq.) \
+cup to hold vinegar. (Zool.) cup-shaped sucker \
+of cuttle-fish, &c. ; socket of thighbone, or of \
+joints in insects. [f. L acetum vinegar \'95+\'95 \
+-abulum dim. of -abrxim receptacle] \
+\
+acetap'ious, a. (Of plants) used in salads, \
+[f. L acetaria salad plants, neut. pi. of acetaris \
+(as acetic, see -ar 1 )+ -ous] \
+\
+a'cetated, a. Treated with acetic acid, \
+[p.p. of acetate v. (acetic+ -ate 3 ) not otherwise \
+used 1 \
+\
+\
+\
+ACETIC \
+\
+ace'tie, a. Pertaining to vinegar, [f. L \
+acetum v inegar+ -ic] \
+\
+aee'tify, v.t. &i. Convert into vinegar; be- \
+come sour. Hence acetiFicA'TiON, aee'tifi- \
+er 1 (2), nn. [as prec. + -fy] \
+\
+a'cetous, a. Having the qualities of vine- \
+gar ; sour, [as prec. + -ous] \
+\
+aee'tylene, n. A colourless gas, burning \
+with a bright flame, [as prec, see -yl and \
+-ene] \
+\
+acharnement (F), n. Ferocity; gusto. \
+\
+Aeha'tes (-k-). Faithful friend of Aeneas \
+(Verg. Aen.); any faithful friend. \
+\
+acne 1 (ak), v.i. SufFer continuous or pro- \
+longed pain. [OE acan; earlier and correct \
+spelling of the verb was ake] \
+\
+ache 2 (ak), n. Continuous pain. [OE sece f. \
+acan v. ; earlier pronunciation of the noun was \
+atsh (cp. bake batch, wake watch )] \
+\
+ache 3 (atsh), n. Name of letter H. \
+\
+aehie've, v.t. Accomplish, carry out; ac- \
+quire ; reach (an end). Hence aehie'VABLE a. \
+[f. F achever (a chef venirl. LL ad caput venire \
+come to a head with)] \
+\
+achievement, n. Completion, accomplish- \
+ment; thing accomplished; escutcheon or en- \
+sign armorial in memory of a distinguished \
+feat ; = hatchment, [f. F achevement (achever \
+achieve)] \
+\
+achi'lous (-k-), a. (bot). "Without lips. [f. Gk \
+-a- not+kheilos lip-f--ous] \
+\
+achlamy'deous, a. (bot.). Without calyx \
+or corolla, [f. Gk a- not+khlamus -udos cloak \
++ -eous] \
+\
+aehpoma'tie, a, (opt.). Free from colour; \
+transmitting light without decomposing it. \
+Hence achpoma'tiCALLY adv., aehro- \
+mati'ciTY, aehpo*matisivi(2), nn., aehro*- \
+matiZE(3) v.t. [f. Gk akhromatos (a- not+ \
+khroma -matos colour) + -ic] \
+\
+a'cid 1 , a. Sour; (Chem.) with the essential \
+\
+Eroperties of an acid 2 . So aei'diTY n. [f. \
+i acidus (acere be sour)] \
+\
+a'cid 2 , n. A sour substance; (Chem.) one \
+of a class of substances that neutralize and are \
+neutralized by alkalis, and are compounded of \
+hydrogen and another element or elements, and \
+of which the principal types are sour and turn \
+vegetable blues to reds. [f. prec] \
+\
+ael'dify, v.t. & i. Make, become, sour; \
+(Chem.) convert into an acid. Hence aci'difi- \
+able a., acidiFiCA'TiON, aci*difiER 1 (2), nn. \
+[as acid, see -fy] \
+\
+aeidi'metep, n. Instrument for measuring \
+strength of acids, [as prec, see -meter] \
+\
+aci'dulated, a. Made somewhat acid. [p.p. \
+of acidulate v. (foil. + -ate 3 ), not otherwise \
+used] \
+\
+aci'dulous, a. Somewhat acid. [f. L aci- \
+dulus (dim. of acidus sour) + -ous] \
+\
+a'cinus, n. (pi. acini). One of the small berries \
+that make up a compound fruit such as the \
+blackberry ; the compound fruit itself ; seed \
+of a grape or berry; (Anat.) racemose gland. \
+Hence aci'niFORM a. [L, = berry, seed] \
+\
+-acious, suf. forming adjj. meaning 'in- \
+clined to ', ' abounding in '. [f. L -ax -acis, \
+added to rb stems to form adjj.,+ -ous] \
+i -aeity, suf. forming nouns of quality corre- \
+sponding to adjj. in -acious directly f. L \
+-acitat- or thr. F -acite'. \
+\
+acknowledge (aknol-), v.t. Admit the \
+truth of ; own (person &c to be something) ; \
+recognize the authority or claims of ; recognize \
+in legal form ; express appreciation of ; an- \
+nounce receipt of ; reward (a service), [a- (2)+ \
+knowledge ; or from the obs. nouo acknow- \
+ledge] \
+\
+\
+\
+10 ACR E \
+\
+acknowledgment, -ement, n. Act of \
+acknowledging ; thing given or done in return \
+for a service, message, &c [prec. + -ment] \
+acli'nic, a. A. line, magnetic equator, on \
+which magnetic needle has no dip. [f. Gk \
+aklines \{a- not+klino bend) + -ic] \
+\
+a'cme, n. Highest point, point of perfection. \
+[Gk,= point] \
+\
+a'cne, n. Pimple ; disease marked by pim- \
+ples, [perh. corrupt, of acme] \
+\
+aco'ck, adv. (Of the hat) in cocked fashion ; \
+defiantly, [a prep. + cock v.] \
+\
+a'eolyte, n. Inferior officer in the church ; \
+attendant, assistant; novice, [f. Gk akoloiiihos \
+follower] \
+\
+a'eonite, n. Monk's-head or wolf's-bane, a \
+poisonous plant; extract from this. Hence \
+aconi'tic a., aeo'nitiNE 5 n. [f. F aconit f. \
+Gk akoniton (etym. dub.)] \
+\
+a'corn, n. Fruit of the oak ; a.-shell, multi- \
+valve cirriped, allied to barnacles. [OE secern, \
+perh. w. orig. meaning 'fruit of the open \
+country ' (OE secer) ; conf us. w. com] \
+\
+aeotyle'don, n. Plant with no distinct \
+seed-lobes. Hence aeotyledonous a. [f. \
+mod. L acotyledones f. Gk a- not + kotuledon \
+cup-shaped hollow (kotule cup)] \
+\
+acou'chy (-ooshi), n. Small rodent allied to \
+guinea-pig. If. Facouchi, perh. f. native name \
+in Guiana] \
+\
+acou'stic (-ow-), a. Pertaining to the sense \
+of hearing. Hence acou*sticALa., aeoirstie- \
+alLY 2 adv., aeoustrciAN, aeoirstics, nn. \
+[f. F acoustique f. Gk akoustikos (akoud \
+hear)] \
+\
+aequai'nt, v.t. Make (person, oneself,) \
+aware of (ivith facts, that, hoiv, &c); make \
+oneself familiar (with circumstances &c) ; \
+(pass.) have personal knowledge of (with person \
+or thing), [f. OF acointer f. LL ACcognitare \
+f. cognit- p.p. st. of co(gnoscere come to \
+know)] \
+\
+acquaintance, n. Knowledge of (with) \
+person &c more than mere recognition and \
+less than intimacy ; person(s) with whom one \
+is acquainted (pi. now usu. -ances in this sense). \
+Hence aequarntaneesHiP n. [f . OF acoint- \
+ance (acointer acquaint)] \
+\
+acquest, n. Thing acquired; (Law) pro- \
+perty gained otherwise than by inheritance, \
+[f. OF acquest f. LL acquistum i. L acquisi- \
+tum (see acquire)] \
+\
+acquie'sce (-ies), v.i. Agree tacitly ; a. in, \
+accept (arrangements, conclusions). So ac- \
+quie'seENCE n., aequie'scENT a. [f. MF \
+acquiescer f. L AC(quiescere rest)] \
+\
+acquire*, v.t. Gain by oneself and for one- \
+self; (of qualities &c.) win (person a good \
+name &c) ; come into possession of; an ac- \
+quired taste (not natural), [f. OF acquey^e f. \
+L. AC(quirere quisit- = quaerere seek)] \
+\
+acquisition, n. Act of acquiring; thing \
+acquired. So acqui'sitivE a. , aequi'sitive- \
+ness n. [f. L acquisitio (as prec, see -ion)] \
+\
+acqui't, v.t. (-tt-). Pay (a debt); declare \
+(person) not guilty (of offence) ; discharge one- \
+self of (duty, responsibility) ; a. oneself (per- \
+form one's part) ivell, ill, &c [f. OF aquiter f. \
+LL *AC(qxdtare - L quietare settle f. quies -etis \
+rest)] \
+\
+acqui'ttal, n. Discharge from debt ; deliver- \
+ance from a charge by verdict &c. ; per- \
+formance (of duty), [prec. + -al (2)] \
+\
+acqui'ttance, n. Payment of debt ; release \
+from debt ; receipt in full. [f. OF^aquitance \
+(aquiter acquit, see -ance)] \
+\
+acre (a'ker), n. Measure of land, 4,840 sq. \
+yds ; piece of tilled or enclosed land, field (only \
+\
+\
+\
+ACREAGE \
+\
+in special uses, as broad act., GocVs A., Long \
+A . ). Hence ( - )a*CPED 2 a. [f . OE secer, acer (cf . \
+OHGj achar L ager Gk agros Skr ajras) tilled \
+or enclosed land (orig. open country) ; adopted \
+in med. L as acra, in OF as acre, hence mod. \
+spelJing for the regular aker] \
+\
+acreage (a"kcrij), n. Amount of acres; \
+acres collectively or in the abstract, [acre + \
+-age] \
+\
+a'epid, a. Bitterly pungent, irritating, corro- \
+sive ; of bitter temper or manner. Hence \
+aeri'diTV n. [irreg. f. L acer -ais pungent-f \
+-id, perh. assimilated to acid] \
+\
+a'crimony, n. Bitterness of temper or \
+manner. So aerimo'nious a., aepimo'ni- \
+OUSLY 2 adv. [f. L acrimonia pungency (acer \
+-cris sharp ; see -mony) perh. thr. F aciimonie] \
+\
+A'epita, n. pi. (zool.). Animals with no dis- \
+tinct nervous system, [mod. L f. Gk akritos \
+undistinguishable (a- not+A;rmo distinguish)] \
+\
+acpo- in comb. Highest, topmost, terminal ; \
+tipped with ; at the point or extremity of. [f. \
+Gk akros topmost, outermost] \
+\
+a'cpobat, n. Rope-dancer, tumbler. Hence \
+acpoba'tica., aepoba'ticALLY adv., a*ero- \
+batiSM n. [f. F acrobate f. Gk akrobatos walk- \
+ing on tiptoe, climbing aloft (acro- + batos \
+vbl adj. f. baino go)] \
+\
+a'crogen, n. (bot.). Cryptogamous plant \
+having perennial stem with growing point at \
+extremity, as ferns and mosses. Hence aepo*- \
+genous a. [acro- + Gk -genes born] \
+\
+a'epolith, n. Statue with head and extremi- \
+ties of stone, [acro- + Gk lithos stone] \
+\
+acpd'nychal, a. Happening at nightfall \
+(esp. of rising or setting of stars). Hence \
+acpo'nyehalLY 2 adv. [f. Gk akronukhos \
+(acro- + nux nuktos night) + -al] \
+\
+aepo'petal, a. Developing from below up- \
+wards. Hence aePO'petalLY. 2 adv. [acro- \
++ L petere seek + -al] \
+\
+aepd'polis, n. Citadel or elevated part of \
+a Greek city, esp. of Athens. [Gk akropolis \
+(acro- +polis city)] \
+\
+acpo'ss, adv. & prep. In the form of a cross, \
+as with arms a. ; forming a cross with, making \
+angles with, (object expressed or understood), \
+as a line drawn a. (the road) ; into contact \
+with, as came a. a tiger, an instance; from \
+side to side (of), as run a. (the road) ; on the \
+other side (of), as by this time he is a. (the \
+Channel), [a prep. + cross 1 ; Caxton has in \
+cross f. F encroix] \
+\
+acpo'stic, n. Poem or other composition in \
+which the initial (single a.), the initial and \
+final (double a.), or the initial, middle, and final \
+(triple a.) letters of the lines spell a word or \
+words ; Hebrew poem of which the lines begin \
+with the successive letters of the alphabet. \
+Hence aepo'stie a., aero'stiCALLY adv. \
+[acro- + Gk stikhos row, line of verse] \
+\
+act l , n. Thing done, deed ; process of doing, \
+operation, as in the very a. of, A. of God \
+(operation of uncontrollable natural forces) ; de- \
+cree passed by a legislative body &c. ; main \
+division of a play ; (in Universities) thesis main- \
+tained by a candidate for a degree &c. [f. F \
+acte f. L actus -us doing and f. L actum thing \
+done ; see foil.] \
+\
+act 2 , v.t. & i. Perform a play or part ; per- \
+sonate (character in a play or in life), as a. \
+Othello, a. the fool; perform actions, behave, \
+as a. (behave) generously, a. (serve) as in- \
+terpreter, a. upon (execute) a suggestion, a. \
+up to (put into practice) a principle ; perform \
+special functions, as the policeman declined to \
+a., the brake refused to a., alcohol acts on the \
+brain, [f. L agere act- do] \
+\
+\
+\
+11 ACULEUS \
+\
+a'cting", a. In vbl senses, esp : doing duty \
+temporarily, as A .-Captain ; doing alone duties \
+nominally shared with others, as A.-Manager, \
+-Trustee, [act 2 -f -ing 2 ] \
+\
+Acti'nia, n. (pi. -ae, -as). Genus of Zoophytes \
+belonging to the family Actiniadae ; (pop.) \
+sea-anemone, [mod. L f. Gk aktis -inos ray] \
+\
+actinism, n. That property of the sun's \
+rays by which chemical changes are produced, \
+as in photography. So acti'nic a. [as prec. + \
+-ism] \
+\
+a'ction, n. Process of acting, exertion of \
+energy or influence, as men of a., put in a., a. \
+of an acid ; thing done, act ; (in drama) series \
+of events represented ; mode of acting, manage- \
+ment of body, &c, as a. of a player, horse, \
+piano ; mechanism of an instrument ; legal pro- \
+cess; engagement between troops. [F, f. L \
+actionem (as act 2 , see -ion)] \
+\
+a'ctionable, a. Affording ground for an \
+action at law. Hence a'etionabLY 2 adv. \
+[action + -able] \
+\
+a'ctive, a. Given to outward action ; work- \
+ing, effective ; energetic, diligent ; acting of \
+one's own accord, acting upon others ; (Gram.) \
+the active voice comprises all forms of intransi- \
+tive verbs, and those forms of transitive verbs \
+that attribute the verbal action to the person \
+or thing whence it proceeds (the logical subject), \
+as We punished him ; not, like the forms of the \
+passive voice, to the person or thing to whom \
+it is directed (the logical object), as He was \
+punished by us. Less correctly, verbs are \
+themselves called active. Hence activeLY 2 \
+adv. [F (-if, -ive), f. L activus (as act 2 , see -ive),; \
+or direct f. L in theol. phr. vita activa] \
+\
+activity, n. Exertion of energy ; quality of \
+being active, diligence, nimbleness ; (pi.) active \
+forces, spheres of action, [f. F. activite f. med. \
+L activitatem (as prec, see -ty)] \
+\
+a'eton, n. Jacket of quilted cotton worn \
+under mail ; mail-plated jacket of leather &c. \
+[f. OF auqueton (mod. hoqueton) padding, \
+padded jacket, f. Sp. alcoton (mod. algodon) \
+cotton f. Arab, al-qutun the cotton] \
+\
+a'ctop, n. Dramatic performer, whence \
+a'ctPESS L n. ; (rarely) doer. [L, = doer, actor \
+(as act 2 , see -or 2 )] \
+\
+a'ctual, a. Existing in fact, real; present, \
+current. [f. F actuel f. LL actualis (actus \
+vbl n. f. agere act 2 ; see -al)] \
+\
+aetua'lity, n. Reality ; realism ; (pi.) existing \
+conditions, [f. med. L actualitas (as prec, \
+see -ty)] \
+\
+a'ctualize, v.t. Realize in action ; describe \
+realistically. Hence aetualizA'TiON n. [ac- \
+tual + -ize] \
+\
+a'etually, adv. In actual fact, really ; for \
+the time being ; even (strange as it may seem). \
+\
+[-LY 2 ] \
+\
+a'ctuapy, n. Expert authority on rates of \
+mortality and other details of life, fire, or ac- \
+cident insurance ; (formerly) registrar, notary. \
+Hence actuap'iAL a. [f. L actuarius amanu- \
+ensis, book-keeper (actus; see actual and \
+-ary i)] \
+\
+a'ctuate, v.t. Communicate motion to (a \
+machine &c); serve as motive to (person). \
+Hence actUA'TiON n. [f. med. L actuare \
+(actus, as prec, see -ate 3 )] \
+\
+acu'ity, n. Sharpness, acuteness (as of \
+needle, acid, disease, wit), [f. F acuite f. med. \
+L acuitatem (acus -us needle ; see -ity)] \
+\
+acu'leate (-at), acu'leated, aa. (Zool.) \
+having a sting; (Bot.) prickly; pointed, in- \
+cisive, [f . L aculeatus ( aculeus, see -ate 2 )] \
+\
+acu'leus, n. (pi. -I). (Zool.) sting; (Bot.) \
+prickle. [L aculeus sting, dim. of acus needle] \
+\
+\
+\
+ACUMEN \
+\
+\
+\
+12 \
+\
+\
+\
+ADDUCT \
+\
+\
+\
+acu'men, n. Keen discernment, penetra- \
+tion. [L acumen -minis anything sharp (acuere \
+sharpen)] \
+\
+acu'minate 1 (-at), a. (nat. hist.). Tapering \
+to a point, [f. L acuminare (prec), see -ate 2 ] \
+\
+aeuininate 2 , v.t. Sharpen, point; give \
+poignancy to. Hence aeuminATiON, n. [as \
+prec, see -ate 3 ] \
+\
+aeu'te, a. Sharp, pointed ; (of angles) less \
+than a right angle ; (of diseases) coming sharply \
+to a crisis, opp. to chronic ; (of sensations, senses, \
+intellect) keen ; (of sounds) high, shrill ; (of \
+letters) bearing the acute accent. Hence \
+aeu'teLY 2 adv., acu'teNESS. n. [f. L acuere \
+-ut- sharpen] \
+\
+acuti- in comb. Sharp, as -foliate sharp- \
+leaved, -lobate sharp-lobed. [L comb, form of \
+acutus acute] \
+\
+-aey, suf. forming nouns of state or quality \
+from or modelled on L -acta or -alia or Gk \
+-ateia, (1) n. of quality f. L -aci-a f. adjj. in \
+-aci- : fall- deceive fall-aci- deceitful fall-aci-a \
+fallacy. (2) n. of state or quality f. L -ati-a f. \
+nouns in -at- (nom. -as, -i- being part of stem \
+or connecting link) : med. L primat- primati-a \
+primacy ; and by analogy supremacy. (3) n. of \
+state f. med. L -ati-a f. nouns in -atus : ad- \
+vocat-us advocat-ia advocacy ; and by analogy \
+curacy. This formation was extended to adjj. \
+f. L -atus to form accuracy, obstinacy, from \
+accurate, obstinate, where L has nouns in -atio ; \
+hence other L words in -atio appear in E with \
+
+\f1 \uc0\u9632 
+\f0 acy where E has no corresponding adj. in -ate, \
+as conspiracy; similarly, E -acy for L -atus \
+(n. of 4th decl.), as magistr-atus magistracy, \
+gives rise to episcopacy as if f. E episcopate ; \
+and lunacy is formed to match lunatic on anal. \
+ol diplomacy diplomatic. (4) n. of state, through \
+L, f. Gk -ateia f. n. in -ates or vb in -ateuein: \
+peirates peirateia piracy. \
+\
+ad-, pref. (1) f. L ad to, with sense of motion \
+or direction to, change into, addition, adher- \
+ence, increase, or mere intensification. Before \
+cfglnpqrst, and prob. before b, ad was in \
+later L assimilated ; before vowels and d h j \
+m v, it was unchanged. In OF, L ad, wherever \
+recognized as such, became a-, even before \
+vowels, as aorner f. L adornare ; but later \
+the spelling was Latinized, sometimes with \
+changed pronunciation, both in F and still \
+more in E, where the OF forms had been \
+adopted. (The use of ad-, ab-, in pairs like \
+adoral, aboral, situated at and aicay from \
+mouth, is unknown to L.) (2) The pedantic \
+spelling ad- for a- was sometimes extended to \
+a- coming not from L ad- but f. L ab- (advance \
+F. avancer L ab-anteare), f. OF en- (addebted \
+OF endeM), f. OF es- f. L ex- (affray OF es- \
+frayer), f. OE a- (accurse ME a-curse), &c; so \
+admiral f. Arab, amiral. New native com- \
+pounds with E a- were falsely spelt in the same \
+way. \
+\
+-ad, suf. of nouns. (1) f. Gk -ad- (nom. -as), \
+in collective numerals (monad, dyad, triad, \
+chiliad, myriad) ; in fern, patronymics (Dryad, \
+Naiad) ; in names qf poems (Iliad, and by anal. \
+Dunciad, Rosciad) ; and in family names of \
+plants (liliad, asclepiad). (2) f. F -ade ; see the \
+more usual -ade. \
+\
+a'dage (-Ij), n. Traditional maxim, proverb. \
+[F, f. L adagium (ad to +agi-, root of aio I say)] \
+\\ ada'gio (adahj-), adv. a., n., (mus.). Leisurely; \
+(n.) adagio movement. [It.] \
+\
+A'dam, n. The first man; old A. (unre- \
+generate condition), A.'s ale or wine (water), \
+A.'s apple (projection of the thyroid cartilage \
+of the larynx). [Heb. a-dam man] \
+\
+a'damant, n. A thing impenetrably hard ; \
+\
+\
+\
+(formerly) loadstone ; diamond. Hence ada- \
+ma'ntiNE 2 a. [f. OF adamaunt i. L adaman- \
+tem (nom. -mas) f. Gk adamas -mantos un- \
+tamable (a- not+damao I tame) ; used in Gk \
+of the hardest metal, prob. steel ; in med. L of \
+the loadstone, from confusion with ad-ama li- \
+tem having an attraction for ; from 17th cent., \
+often a synonym for diamond] \
+\
+A'damite, n. Child of Adam, human being ; \
+unclothed man; (Eccles.) name of sects who \
+imitated Adam in this respect; (pi.) a section \
+of humanity supposed by some to be alone de- \
+rived from Adam. [adam+ -ite] \
+\
+ada'pt, v.t. Fit (a thing to another) ; make \
+suitable (to or for a purpose). Hence or cogn. \
+adaptaBiLiTV, adaptATiON, nn., ada'pt- \
+able, ada'ptiVE, aa. [f. F adapter f. L ad- \
+(aptare f. apt us fit)] \
+\
+ad capta'netum (vu'lgus), adv. &a. (Cal- \
+culated) to take the fancy (of the rabble). [L] \
+\
+add, v.t. & i. Join (one thing to another), \
+as a. your entreaties to mine, a. insult to in- \
+jury, this adds to (increases) our difficulties, he \
+added (stated further) that\'97, a. up or to- \
+gether (find the sum of), a. (perform the pro- \
+cess of summation) cori^ectly, a. in (include), \
+[f. L AD(dere dit- = dare putfi \
+\
+addendum, n. (pi. -da). Thing to be added ; \
+appendix, addition. [L gerundive of addere \
+add] \
+\
+a'dder, n. Small venomous snake, esp. \
+Common Viper; Puff, Death, Horned, A., \
+species of Viperidae; Flying A., dragon-fly; \
+A.'s tongue, genus of ferns, [f. OE nxdre (cf. \
+OLG nadra, OHG natra) serpent ; n- lost in \
+ME by wrong division of a naddre into an \
+addre ; nedder survives in dial.] \
+\
+addi'ct, v.t. Devote, apply habitually, (to a \
+practice), as his tastes a. him, he addicts him- \
+self or his mind, he is addicted, to ; (Rom. Law) \
+deliver over by sentence of a judge. So ad- \
+di'etiON n. [f. L &r>(dicere diet- say) assign] \
+\
+addi'tion, n. Process of adding ; thing \
+added. [F, f. L additionem (as add, see -ion)] \
+\
+additional, a. Added, supplementary. \
+Hence addi'tionalLY 2 adv. [prec. + -al] \
+\
+a'ddle \\ a. A. egg, rotten one, one that pro- \
+duces no chicken ; empty, vain ; muddled, un- \
+sound, as a.-brained, -head, -pated. [f. OE \
+adela mud (cf. MLG adele G adel) ; now used \
+only as adj.] \
+\
+a'ddle 2 , v.t. & i. Muddle, confuse ; (of eggs) \
+grow addle, [f. prec] \
+\
+a'ddled, a. Made addle, [addle a. assim. to \
+p.p. form, apparently before addle v. existed] \
+\
+address J , v.t. Communicate with (by word \
+or letter), as a. myself or my remarks or a \
+letter to a person, a. an audience, a. a letter \
+(write on cover directions for delivery) to a \
+person; apply oneself to (a task). [f. F \
+adresser f. LL *AV(drictiare f. drictum for \
+directum direct)] \
+\
+addre'ss 2 , n. Readiness, skill, dexterity, \
+adroitness ; superscription of letter, name of \
+place to which person's letters are directed ; \
+act of dispatching a ship; manner, bearing, \
+in conversation ; (pi.) courteous approach, \
+courtship, [f. prec. and f. F adresse n. f. \
+adresser) \
+\
+addressee*, n. Person to whom a letter is \
+addressed, [address l + -ee] \
+\
+addu'ee, v.t. Cite as proof or instance. \
+Hence addireeABLE, addu'eiBLE, aa. [f. L \
+AT>(diccere duct- lead)] \
+\
+addu'eent, a. (physiol.). (Of muscles) draw- \
+ing to a common centre, [as prec, see -ent] \
+\
+addu'et, v.t. (physiol.). Draw to a common \
+centre, [as adduce] \
+\
+\
+\
+ADDUCTION \
+\
+\
+\
+13 \
+\
+\
+\
+ADMEASURE \
+\
+\
+\
+addu'ction, n. Act of adducing; act of \
+adducting. [F, f. L adductionem (as prec, see \
+\
+-ION)] \
+\
+-ade, suf. of nouns. (1) f. F -ade, the form in \
+which Pr., Sp., or Port, wds in -ada f. L -ata \
+(fern. sing. p.p. of verbs in -are) were adopted \
+in F, often supplanting native F -be direct f. \
+L, as in accolade OF acolee. Now a living suf. \
+both in F wds, many of which are borrowed \
+by E \{tirade, gasconnade), and in E (blockade, \
+orangeade) ; E drops F e in ballad, salad. \
+Meanings : action done (tirade, fusillade), body \
+concerned in action or process (ambuscade, \
+cavalcade), thing produced by action or from \
+material (masquerade, lemonade). (2) f. \'a5 -ade \
+f. Gk -ada (nom. -as), as decade ; but in E usu. \
+-ad. (3) f. Sp. or Port, -ado, masc. form corr. \
+to (1) above, with similar meaning (brocade), \
+or that of the person affected (renegade). \
+a'denoids, n. pi. Mass of spongy tissue \
+between back of nose and throat, often hinder- \
+ing inflation of lungs, [f . Gk aden -enos acorn, \
+gland] \
+\
+adept, n. & a. (One who is) thoroughly pro- \
+ficient (in anything), [f. L adeptus p.p. of \
+AT>(ipisci = apisci f. root ap-) attain, used in \
+med. L as title by alchemists who 'had attained ' \
+the great secret] \
+\
+a'dequate, a. Proportionate (to the require- \
+ments); sufficient. Hence a'dequACY n., \
+adequateLY 2 adv. [f. L Avaequare make \
+equal (aequus), see -ate 3 ] \
+a deux (F), adv. & a. For two ; between \
+two. \
+\
+adhere*, v.i. Stick fast, cleave, to (a sub- \
+stance, person, party, opinion), [f. L ad- \
+(haerere haes- stick)] \
+\
+adher'ent, a. & n. Sticking (to substance) ; \
+due to ; connected with (to) ; (n.) supporter (of \
+party &c). So adhep'ENCE n. [f. F adherent \
+(as prec, see -ent)] \
+\
+adhe'sion, n. Adhering (lit. and fig.) ; give \
+in one's a., announce ones concurrence, [f. \
+F adhesion f. L adhaesionem (as adhere, see \
+\
+-ION)] \
+\
+adhesive, a. Having the property of ad- \
+hering ; sticky. Hence adhe'siveLY 2 adv. \
+[f. F adhesif, -ive (as adhere, see -ive)] \
+\
+adhi'bit, v.t. Put on, affix ; apply, ad- \
+minister, (remedies). So adhibi'tiON n. [f. \
+L AT>(hibere Mbit- = habere hold) employ] \
+\
+ad hoc, a. Arranged for this purpose, special. \
+\
+a'diaba'tie, a. (physics). Impervious to \
+heat, maintaining a constant temperature. \
+Hence a*diaba*tiealLY 2 adv. [f. Gk adia- \
+batos impervious (a- not-hdia through+ba\'a3os \
+passable f. baino go) + -ic] \
+\
+adia'ntum, n. Genus of ferns including the \
+True Maidenhair; \{pop.) Black Maidenhair. \
+[L, f. Gk adianton maidenhair, lit. un wetted (a- \
+not +diaino wet)] \
+\
+adia'phorism, n. Latitudinarianism. So \
+adia'phoriST n. [f. Gk adiaphoros (a- not \
++diaphoros different f. dia apart+j>/terdbear) \
++ -ism] \
+\
+adieu (adu - ), int. & n. Good-bye ; make, \
+take, one's a., say good-bye. [F (d to+Dieu \
+God)] \
+\
+ad infinitum, adv. Without limit, forever. \
+[L] \
+\
+ad i'nterim, adv. & a. For the meantime. \
+[L] \
+\
+a'dipoeere, n. Greyish fatty substance \
+generated in dead bodies subjected to moisture. \
+[f. F adipocire (L adeps -ipis fat-f- -o- -Voire \
+wax f. L cera)] \
+\
+a'dipose, a. & n. Pertaining to fat, fatty ; \
+\
+\
+\
+(n.) animal fat. Hence adipo'siTY n. [f. \
+L adeps -ipis fat+ -ose] \
+\
+a'dit, n. Approach; (of mines) horizontal en- \
+trance ; act of approaching, [f. L Amtus -us \
+(ire it- go)] \
+\
+adja'eent, a. Lying near, contiguous. So \
+adja'CENCY n. [f. L AD(jacere lie), see -ent] \
+\
+a'djeetive, a. & n. Additional, not standing \
+by.itself, dependent : a. colours (not permanent \
+without a basis); Law A. (subsidiary part of \
+law, procedure) ; (Gram.) a., noun a., the name \
+of an attribute, added to the name of a thing \
+to describe the thing more fully. Hence ad- \
+jeetrvALa^adjeeti'valLYSja'djeetiveLY 2 , \
+advv. [F (-if, -ive), f. L adjectivus f. AT>(jicere \
+ject- = jacere throw), see -ive] \
+\
+adjoi'n, v.t. Join, unite, (one thing to \
+another) ; be contiguous with. [f. OF ajoindre \
+f. L AT>(jungere junct- join)] \
+\
+adjoup'n (-era), v.t. & i. Put off, postpone \
+postpone further proceedings ; (intr., of persons \
+met together) suspend joint proceedings and \
+separate ; change the place of meeting. Hence \
+adjou'pnMENT n. [f. OF ajorner f. LL ad- \
+jurnare appoint a day (jum-vis day, cf. It. \
+giorno F jour, f. L diurnus daily f. dies \
+day)] \
+\
+adju'dge, v.t. Adjudicate upon (a matter) ; \
+pronounce judicially (that a thing is or a thing \
+to be) ; condemn (person to penalty or to do) ; \
+award judicially (thing to person). Hence \
+adju'dg-MENT n. [f. OF ajuger (as foil.)] \
+\
+adju'dicate, v.t. & i. (Of a judge or court) \
+decide upon (claim &c.) ; pronounce (person to \
+be something); (intr.) sit in judgment and \
+pronounce sentence. Hence adjudicA'TiON, \
+adju'dieatOR 2 , nn., adju'dieatiVE a. [f. \
+L AD(jndicare f. judex -ids judge), see -ate 3 ] \
+\
+a'djunet, n. Subordinate (thing, person, \
+to another); personal enhancement; (Gram.) \
+amplification of the predicate, subject, &c. ; \
+(Logic) non-essential attribute. Hence ad- \
+jirnetivE a., adjirnetiveLY 2 adv. [f. L as \
+adjoin] \
+\
+adjure* (-joor), v.t. Charge (a person) under \
+oath or penalty of curse (to do) ; request \
+earnestly. Hence adjupATiON n. [f. L ad- \
+(jurare swear) in LL sense ' put person to an \
+oath '] \
+\
+adju'st, v.t. Arrange, put in order; har- \
+monize (discrepancies) ; adapt (to standard or \
+purpose). Hence adju'stABLE a., adju'st- \
+ment n. [f. 16th-c. F adjuster (mod. Fajuster) \
+f. med. L adjustare (not, as was thought, ad \
++justus just, but)f. OF ajxister, ajouster (mod. \
+F ajouter) f. LL AT>(juxtare bring together f. \
+juxta near) ; those meanings of OF ajuster that \
+seemed connected with L Justus being given \
+to the new adjuster, formed when the conn, \
+of OF ajuster with adjustare came to be con- \
+cealed by the new spelling ajouter] \
+\
+ad j u'tage, aj-, n. Mouthpiece of an artificial \
+fountain, [f. F ajoutage (ajouter add, join ; \
+see prec. and -age)] \
+\
+a'djutant, a. & n. Assistant ; (Mil.) officer \
+in the army who assists superior officers by \
+communicating orders, conducting correspon- \
+dence, &c, whence a'djutancY n. ; gigantic \
+Indian stork, [f. L adjutare frequent, as foil., \
+see -ant] \
+\
+a'djuvant, a. & n. Helpful, auxiliary ; \
+person, thing, that helps. [F, f. L Ai>(juvare \
+jut- help), see -ant] \
+\
+ad fi'bitum, adv. (abbr. ad lib.). At pleasure, \
+to any extent. [L] \
+\
+admea'supe (-zher), v.t. Apportion, assign \
+in due shares, [f. OF amesurer f. LL ad- \
+(mensurare measure)] \
+\
+\
+\
+ADMEASUREMENT \
+\
+\
+\
+admeasurement, n. Process of admea- \
+suring ; comparison ; dimensions, [f . OF a- \
+mesurement (as prec, see -ment)] \
+\
+adminicle, n. Auxiliary ; (Law) corrobora- \
+tory evidence. Hence admini'culAR x a. [f. \
+JjADmdniculum prop (?namis hand)] \
+\
+admi'nistep, v.t. & i. Manage (affairs) ; \
+dispense (justice, sacraments, to) ; tender (oath \
+to) ; furnish, give, (thing to) ; apply (remedies \
+to) ; (intr.) act as administrator; contributed \
+(one's comfort &c). Hence admi'nistrABLE \
+a. [f. OF aministrer f. L xn(ministrare min- \
+ister)] \
+\
+administration, n. Management (0/ busi- \
+ness) ; management of public affairs, govern- \
+ment; the ministry, the Government; (Law) \
+management of deceased person's estate ; Let- \
+ters of A., authority to administer estate of \
+an intestate, opp. to probate ; dispensation (of \
+justice, &c); tendering (of oath); application \
+(of remedies), [(perh. thr. F) f. L administratio \
+(as prec, see -ation)] \
+\
+administrative, a. Pertaining to manage- \
+ment of affairs; executive. Hence admi'ni- \
+strativeL y 2 adv. [f. L administrativus (as \
+prec, see -ive)] \
+\
+administrator, n. Manager ; one capable \
+of organizing ; one who performs official duties \
+(of religion, justice, &c.) ; applier or giver (of) ; \
+one authorized to manage estates for legal \
+owner during minority, &c, or estates of one \
+who dies without appointing competent execu- \
+tors. Hence admi'nistratorsHip, admi'n- \
+istraTRix, nn. [L, as administeRj see -or 2 ] \
+\
+a'dmirable(-mer-), a. Surprisingly good, ex- \
+cellent. Hence a'dmirabLY 2 adv. [F, f. L \
+admirabilis (as admire, see -able)] \
+\
+a'dmiral (-mer-), n. Commander-in-chief of \
+a country's navy (in England, formerly Lord \
+High A.); naval officer of highest rank, com- \
+mander of fleet or squadron ; A. of the Fleet, \
+A., Vice- A., Rear- A., the four grades of A. in \
+England ; privileged commander of fishing or \
+merchant fleet; ship that carries the a., Flag- \
+ship ; Red A., White A., two European species \
+of butterfly. Hence a'dmiralSHip n. [f. OF \
+amiral f. Arab, amir commander al of the \
+(Faithful, Sea, &c), Latinized as amvralis, but \
+refashioned (see ad-) as admiralis, and con- \
+fused with L admirari wonder at, whence \
+med. L admirabilis mundi ruler of the world] \
+\
+a'dmiralty, n. Office of admiral ; branch \
+of the executive that superintends the navy \
+(in England, Lords Commissioners of A.) ; \
+Court of A., tribunal for trial and decision of \
+maritime questions and offences, [f. OF ad- \
+miralty ; see admiral and -ty] \
+\
+admira'tion (-mer-), n. Pleased contempla- \
+tion ; (formerly) wonder ; the a. of, admired by ; \
+note of a. (!). [F, f. L admirationem (as foil., \
+see -ation)] \
+\
+admire*, v.t. Regard with pleased surprise \
+or approval; (formerly) wonder at, wonder, \
+[f. F admirer f. L \\D(mirari wonder at)] \
+\
+admir'er, n. One that admires ; lover, [ad- \
+MIRE+-ER 1 ] \
+\
+admi'ssible, a. (Of idea or plan) worthy \
+to be entertained; (law) allowable as judicial \
+proof; capable of being admitted (to office or \
+\
+Eosition). Hence admissiBi - LiTY n. [F, f. \
+L admissibilis (as admit, see -ble)] \
+admi'ssion, n. Admitting, being admitted, \
+(to society of persons or class of things); ac- \
+knowledgment (of thing as true, that it is \
+true), [f. L admissio (as foil., see -ion)] \
+admi'ssive, a. Tending to admit, [f. L \
+admissivus (as foil., see -ive)] \
+admi't, v.t. & i. (-U-). Allow (person &c) en- \
+\
+\
+\
+1 * ADORER \
+\
+trance or access (to place, class, privileges, &c) ; \
+accept as valid or true, whence admi'ttedLY 2 \
+adv. ; acknowledge (thing to be, that it is) ; \
+(abs.) this, I admit, was wrong; (of enclosed \
+spaces) have room for; a. of, leave room for \
+(doubt, improvement), [f. F admettre f. L. \
+XD(mittere miss- let go)] \
+\
+admi'ttable, a. Capable of being admitted \
+(usu. to a place), [prec. + -able] \
+\
+admittance, n. Admitting, being admitted, \
+(usu. to a place). [admit+-ance] \
+\
+admi'x, v.t. & i. Add. as an ingredient; \
+mingle (with something). So admi'xtURE n. \
+[ad-+mix; perh. due to admixt, really f. L \
+admixt- p.p. of xT>(miscere mixt- mix),* but \
+taken for an E p.p.] \
+\
+admd'nish, v.t. Exhort (person to do, that \
+he should do); give advice; warn (of a thing); \
+inform, remind, (of a thing, that). Hence ad- \
+mo*nishMENTn. [OEamonestf. OF amonester \
+f. LL admonestare irreg. f. AD(m,onere monit- \
+warn) ; amonest having dropped final -t (sup- \
+posed to be p.p. ending) became admonish on \
+anal, of aboliss abolish &c] \
+\
+admoni'tion, n. Admonishing ; warning, \
+reproof. So admo'nitORY a. [E OF amoni- \
+tion f. L admonitionem (as prec, see -ion)] \
+\
+act nau'seam. adv. To a disgusting extent. \
+[LJ \
+\
+adno'minal, a. Belonging to an adnoun; \
+attached to a noun. [f. L adnomen variant of \
+agnomen in the sense (not L) 'attached to a \
+noun' (ad to+ nomen noun)] \
+\
+a'dnoun, n. Adjective, word added to a \
+noun substantive; adjective used substan- \
+tively. [L L ad to+NOUN on anal, of adverb] \
+\
+ado* (-00), n. Action, business, fuss ; difficulty, \
+[f. Norse at ( \'97 to with infinitive)-\}- do; much \
+ado prop. =much to do; but much being taken \
+as adj., ado is treated as n.] \
+\
+-ado, suf. of nouns. (1) f. Sp. or Port, -ado \
+f. L -at us p.p. of vbs in -are, as desperado L \
+desperatus (desperare); sometimes changed \
+in E to -ode, as renegado, now renegade. (2) \
+Ignorant refashioning of nouns in -ade f. F \
+-ade \'97 Sp. -ada It. -ata, as crusado Sp. cruzada, \
+scalado Sp. escalada. \
+\
+adole'scent (-esnt), n. & a. (Person) growing \
+up, between childhood and manhood (11 to \
+25) or womanhood (12 to 21). So adole'SGENCE, \
+-ency, nn. [F, f. L AD(o"escere ult- incept, of \
+olere grow), see -ent] \
+\
+Ado'nis, n. Beautiful youth loved by \
+Venus; beau, dandy; (Bot.) genus including \
+Pheasant's Eye ; (Entom.) the butterfly Clifton \
+Blue. [Gk, '\'a3. Phoen. adon lord, title of a \
+divinity] \
+\
+a'donize, v. refl. & i. Adorn, dandify, (one- \
+self) ; play the Adonis. [adonis+-ize] \
+\
+ado'pt, v.t. Take (person) into a relationship \
+he did not previously occupy; take (idea, &c) \
+from some one else; choose. Hence adopt- \
+aBi'LiTY, ado'ptiON, nn., ado'ptABLE a. [f. \
+F adopter f. L AD(optare choose, frequent, \
+of obs. opere opt- wish) adopt esp. child] \
+\
+ado'ptive, a. Due to adoption, as a. son, \
+father; apt to adopt. Hence ado'ptiveLY 2 \
+adv. [F (-if, -ive), f. L adoptivus ; see prec. and \
+-ive] \
+\
+adore*, v.t. Regard with the utmost respect \
+and affection; (poet.) worship as a deity; (in \
+R. C. Church) reverence with representative \
+honours (the Host &c). So ador'ABLE a., \
+ador*abLY 2 adv., adorA'TioNn. [f. F adorer \
+f. L AD(orare speak f. os oris mouth) salute \
+worship] \
+\
+ador'er, n. "Worshipper; ardent admirer, \
+lover. [prec-f-ER 1 ] \
+\
+\
+\
+ADORN \
+\
+\
+\
+15 \
+\
+\
+\
+ador*n, v. t. Add beauty or lustre to ; furnish \
+with ornaments. So ador'nMENT n. [f. F \
+adorner f. L \\T>(ornare furnish) deck out] \
+adow'n, ad v. & prep, (archaic.poet. ). = do wn 3 . \
+[f. OE of dime off the mount (see down 1 n.)] \
+\
+ad rem, adv. & pred. a. To the point ; to \
+the purpose. [L] \
+\
+adri'ft, adv. In a drifting condition, at the \
+mercy of wind and tide or of circumstances. \
+[a prep.+DRiFT 1 ] \
+\
+adroi't, a. Having address, dexterous. \
+Hence adroi'tLY 2 adv., adroi'tNESS n. [F, \
+orig. = rightly (a to+droit right f. OF dreit \
+f. LL drictiim f. L direction right; see di- \
+rect 2 )] \
+\
+adry", adv. & pred. a. Dry; thirsty, [a- \
++DRY 1 on anal, of aeold, at hirst, the prep, a in \
+these being misunderstood] \
+\
+adseiti'tious, a. Adopted from without; \
+supplemental, [f. L AT>(sciscere seit- inceptive \
+of scire know) + -itious] \
+\
+adscriptus gle'bae, a. & n. (Serf) at- \
+tached to the soil. [L] \
+\
+a'dsum, v.i. I am here. [L] \
+\
+a'dulate, v.t. Flatter basely. So adu- \
+Ia'tion, a'dulatOR 2 , nn., a'dulatORY a. \
+[f. L adulari faAvn on, see -ate 3 ] \
+\
+Adu'llamite, n. M.P. seceding from Liberal \
+Party in 1866. [Adullam (1 Sam. xxii. 1, 2)+ \
+-ite] \
+\
+adu'lt, a. & n. (One who is) grown up; \
+mature, [as adolescent] \
+\
+adu'lterant, a. & n. (Thing) employed in \
+adulterating, [as foil., see -ant] \
+\
+adu'lterate 1 (-at), a. Stained (in conduct \
+or in birth) by adultery ; (of things) spurious, \
+counterfeit, [as foil., see -ate 2 ] \
+\
+adu'lterate 2 , v.t. Falsify by admixture of \
+baser ingredients. So adulter a # tion, adu'l- \
+teratOR 2 , nn. [f. L adidterare corrupt (a- \
+dulter adulterer, perh. f. ad to+alter other); \
+replaces obs. vb adulter f. OF] \
+\
+adu'lterer, n. One guilty of adultery. So \
+adu'ltePESS 1 n. [f. adulter v. (see prec. and \
+-er 1 ); obs. adulter, avouter, are f. OF avoutre \
+f. L adulter] \
+\
+adu'lterme, a. Of, born of, adultery; a- \
+dulterated, counterfeit ; illegal, unlicensed, [f. \
+L adulterinus born of adultery, spurious \
+\{adidter adulterer, see -ine 1 )] \
+\
+adu'ltery, n. Voluntary sexual intercourse \
+of married person with one of opposite sex, \
+married (double a.) or not (single a.). So \
+adu'lterous a., adu'lterousLY 2 adv. [f. \
+OF avoutrie, aiilterie (L adulter adulterer, \
+see -y 1 ), reformed on F adultere f. L adulte- \
+i rivm] \
+\
+adu'mbral, a. Overshadowing, shady, [f. \
+ad- + L umbra shade + -al] \
+\
+a'dumbrate, v.t. Represent in outline; \
+faintly .indicate; typify, foreshadow; over- \
+shadow. Hence or cogn. adumbrAHON n., \
+adu'mbraTiVE a. [f. L &D(umbrare f. umbra \
+shade), see -ate 3 ] \
+\
+ad un'auem (fa'ctus), a. Highly finished. \
+[L] \
+\
+adu'st, a. Scorched,'dried up, parched ; sun- \
+burnt; atrabilious, gloomy, [f. L.AD(z*rere ust- \
+burn)] \
+\
+ad valor-em, adv. & a, (Of taxes) in pro- \
+portion to estimated value of goods. [L] \
+\
+adva'nee 1 , v.t. & i. Move or put forward; \
+promote (plans, persons) ; bring forward (claims, \
+suggestions) ; accelerate (events) ; pay (money) \
+before it is due ; lend ; raise (price) ; (intr.) move \
+forward; make progress; rise (in price) ; (p.p.) \
+far on in progress, as advanced studies, ideas. \
+So adva'neeMENT n. [f. OF avancer f. LL \
+\
+\
+\
+ADVERSE \
+\
+abanteare (abante = ab away + ante before, \
+whence F avant ; see ad-)] \
+\
+adva'nee 2 , n. Going forward; progress; \
+personal approach, overture; rise in price; \
+payment beforehand, loan; in a., before (of \
+place or time), [f. prec. and f. F avance n. (as \
+prec.)] \
+\
+advantage 1 (-ij), n. Better position, prece- \
+dence, superiority; favourable circumstance, \
+whence advantageous a., advanta*- \
+g-eousLY 2 adv. ; (in Tennis) next point or game \
+won after deuce points or games; have the a. \
+of, gain an a. over, have, acquire, a better \
+position than ; take a. (avail oneself) of a cir- \
+cumstance; take a. of (overreach) a person; \
+take a person at a. (by surprise) ; a.-grounct \
+(usu. vantage-), position that gives superiority, \
+[f. F avantage (avant; see advance v. and \
+\
+-AGE)] \
+\
+advantage 2 ( ij), v.t. Be beneficial to ; be an \
+advantage to; further, promote, [f. F avan- \
+tager (avantage; see prec.)] \
+\
+a'dvent, n. Season before the Nativity; \
+coming of Christ, Incarnation ; second coming \
+of Christ; any (important) arrival, [f. OF \
+advent, auvent f. L adventus -us arrival f. \
+XD(venire vent- come)] \
+\
+adventi'tious, a. Coming from without; \
+accidental, casual ; (Law, of property) coming \
+from a stranger or by collateral, not direct, \
+succession. Hence adventi'tiousLY 2 adv. \
+[f. L adventicius (med. L -itius) coming to us \
+from abroad (as prec, see -itious)] \
+\
+adventure 1 (-tsher), n. Risk,danger; daring \
+enterprise ; unexpected incident ; commercial \
+specvilation ; hazardous activity, [f. OF aven- \
+ture i. L adventura (res thing) about to happen \
+(as advent)] \
+\
+adventure 2 (-tshe?-), v.t. & i. Hazard, im- \
+peril, (oneself, thing); incur risk; dare to go \
+or come (into, in, upon, a place) ; dare to enter \
+on, upon, (undertaking), [f. OF aventurer (as \
+prec.)] \
+\
+adventurer, n. One who seeks adven- \
+tures ; soldier of fortune ; speculator ; one who \
+lives by his wits. [f. F aventurier (as ad- \
+venture 1 , see -er 1 )] \
+\
+adve'nturesome, a. Given to adventures. \
+[adventure x + -some] \
+\
+adventuress, n. Female adventurer; \
+woman on the look-out for a position, [f. ad- \
+venturer, see -ess] \
+\
+adventurous, a. Rash, venturesome ; \
+enterprising. Hence adventurousLY 2 adv. \
+[f. OF aventuros (as adventure 1 , see -ous)] \
+\
+a'dverb, n. Word that modifies or qualifies \
+an adjective, verb, or other adverb, express- \
+ing a relation of place, time, circumstance, \
+manner, &c. (e. g. gently, so, new, where, xohy). \
+[f. F adverbe f. L ADverbimn (verbum word, \
+verb) transl. of Gk epir^rhema addition to a \
+predication] \
+\
+adver'bial, a. Pertaining to an adverb ; of \
+the nature of an adverb. Hence ad ver 'bialu Y 2 \
+adv. [ f. L adverbialis (adverbium ; see prec. \
+and -al)] r _ . \
+\
+ad vet- hum, adv. & a. Word for word. [L] \
+\
+a'dversary, n. Opponent, antagonist, \
+enemy ; the A., the Devil, [f. OF aversier f. I* \
+\
+udversarius opposed (as adverse, see -ary 1 )] \
+\
+adver 'sati ve, a. (Of words, &c. ) expressing \
+opposition or antithesis. Hence adve'rsa- \
+tiveLY 2 adv. [f. L adversativus (adversary \
+oppose, see foil, and -ive)] \
+\
+a'dverse, a. Contrary, hostile, (to) ; hurtful, \
+injurious, (to) ; placed opposite. Hence a'd- \
+verseLY 2 adv. [f. OF avers I L AV(vertere \
+vers- turn)] \
+\
+\
+\
+ADVERSITY \
+\
+adver'sity, n. Condition of adverse for- \
+tune ; misfortune, [f. OF aversite f. L adver- \
+sitatem (as prec., see -ty)J \
+adver't, v.i. Refer to (in speaking or writ- \
+ing), [f. 14th-c. E averte f. F avertir f. LL \
+AT>(vertere=~L vertere turn) draw attention to ; \
+F avertir (see ad-) was written adv- to dist. \
+it from obs. avertir f. LL avertere turn away \
+(ab), and E adopted this in advert and ad- \
+vertise] \
+\
+a'dvertise (-z), v.t. & i. Notify, warn, in- \
+form, (person of thing, that) ; make generally \
+known (thing by circular, in journal, also abs.) ; \
+a. for, ask for by public notice, [f. F avertir (st. \
+-iss-) ; see advert] \
+\
+advertisement, n. Public announcement \
+(usu. by placards or in journals), [f. F aver- \
+iissement (as prec, see -ment)] \
+advree, n. Opinion given or offei'ed as to \
+action, counsel ; information given, news ; (pi.) \
+communications from a distance; (commerc.) \
+formal notice of transactions, [f. OF avis f. \
+LL *advisum \{ad to+visum p.p. of videre see)] \
+advi'sable, a. To be recommended ; ex- \
+pedient. Hence advisaBi'LiTY, advi'sable- \
+ness, nn., advi'sabLY 2 adv. [f. foil. + \
+-able] \
+\
+advi'se (-z), v.t. & i. Offer counsel to ; (com- \
+merc.) announce ; take counsel with. [f. F aviser \
+f. LL advisare (advisum, see advice)] \
+advi'sed, a. Deliberate, considered, whence \
+advi*sedLY 2 adv. ; judicious; ill-a., injudici- \
+ous, [p.p. of prec] \
+\
+advi'sory (-z-), a. Giving advice ; consisting \
+in giving advice, [advise + -orv] \
+ad vitam aut cwlpam, adv. During \
+good behaviour. [L] \
+\
+a'dvoeaey, n. Function of an advocate ; \
+pleading in support of. [f. F advocacie, -tie, f. \
+med. L advocatia (as foil., see -acy)] \
+a'dvocate 1 (-at), n. One who pleads for \
+another; one who speaks in behalf of (pro- \
+posal, &c); professional pleader in courts of \
+justice ; Facidty of Aa., Scotch bar ; Lord A., \
+principal law-officer of crown in Scotland. \
+Hence a'dvoeatesHiP n., a'dvoeatORY a. \
+[f. F avocat f. L advocatus p.p. (as n.) of ad- \
+(vocare oall)] \
+\
+a'dvocate 2 , v.t. Plead for, defend, recom- \
+mend publicly, [f. prec] \
+advowson, n. Right of presentation to a \
+benefice, [f. OF avoeson f. med. Ytadvocationem \
+function of patron (as prec, see -ion)] \
+adyna'mia, n. Want of vital force ; phy- \
+sical prostration. Hence adyna'mic a. [Gk \
+adunamia (a- not+dunamis power)] \
+a'dytum, n. (pi. -ta). Innermost part of a \
+temple ; private chamber, sanctum. [L, f. Gk \
+aduton not to be entered (a- not+duton vbl adj. \
+of duo enter)] \
+\
+adze, n. & v.t. Tool for cutting away sur- \
+face of wood, like axe with arched blade at \
+right angles to handle ; (vb) cut with a. [OE \
+adesa, etym. dub.] \
+\
+se, ae, symbol repr. a vowel sound betw. a \
+and e. (1) In OE short se repr. orig. Teut. short \
+a, the sound o f . a in man ; replaced after 1100 \
+usu. by a sometimes by e. Long se repr. same \
+sound prolonged, and was replaced in 13th c \
+by e or ee. (2) In 16th c se was reintroduced to \
+repr. L ae and Gk ai ; as, xdify (L aedificare), \
+xther (Gk aither). In familiar wds se gave \
+place to e, \{edify, ether), being kept (pron. e) in \
+some Gk and L proper names (JEneas, Caesar, \
+but Judea, Etna), in names of Gk and Roman \
+antiquities (xdile, xgis), and in some scientific \
+terms (xtiology, phxnogamous but pheno- \
+menon, museum). \
+\
+\
+\
+16 AESCULAPIUS \
+\
+-se, -ae, pi. suf. of L nouns of 1st decl. in -a, \
+and L form of Gk -ai pi. of nouns of 1st decl. in \
+-e, -a, -es, -as ; kept in non-naturalized words \
+\{laminae, larvae), esp. in proper names (Hera- \
+clidae) and names of animal and plant orders \
+(Felidae, Rosidae) ; varying with -as in some \
+wds ace to degree of familiarity (actiniae, -as) \
+or of technicality (mathematical formulae, \
+theological formidas) ; familiar wds take -as \
+\{areas, hyenas, Jidias). \
+\
+ae'dile, n. Roman magistrate who superin- \
+tended public buildings, shows, police, &c \
+Hence ae'dilesmp n. [f. L aedilis (aedes \
+house, see -ile)] \
+\
+ae'ger (ejer), n. (In Eng. univv.) note certi- \
+fying that student is ill. [L,=sick] \
+aegis (e'jis), n. Protection, impregnable de- \
+fence ; (Myth.) shield of Zeus or Athene. [L, \
+f. Gk aigis, etym. dub. ] \
+aegro'tat, n. (In Eng. univv.) certificate \
+that student is too ill to attend examination, \
+&c [L : = he is sick (aeger)] \
+Aed'lian, a. (1) Of Aeolis, district of Asia \
+Minor colonized by ancient Greeks ; (Mus.) A. \
+mode, ninth of the church modes. (2) Of \
+Aeolus, god of winds ; A. harp, stringed instru- \
+ment producing musical sounds on exposure \
+to wind. [f. L Aeolixis (1. Aeolis Gk Aiolis ; \
+2. Aeolus Gk Aiolos) + -an] \
+Aeoiie, a. & n. Aeolian (dialect), [f. L \
+f. Gk aiolikos (as prec, see -ic)J \
+ae'olipyle, -pile, n. Instrument fpr show- \
+ing force of steam escaping through narrow \
+aperture, [f. F xolipyle f. L Aeoli pylae f. \
+Gk Aiolou pxdai gates of Aeolus, god of \
+winds] \
+\
+aeolo'tropy, n. Change of physical quali- \
+ties consequent on change of position, [f. Gk \
+aiolos changeful + -tropia turning] \
+ae'on, e*on, n. An age of the universe, \
+immeasurable period; eternity; (Platonic \
+philosophy) a power existing from eternity, \
+emanation or phase of the supreme deity. [L \
+aeon f. Gk aion age] \
+\
+a* e rate, v.t. Expose to mechanical or \
+chemical action of air; charge with carbonic \
+acid gas (formerly called fixed air). Hence \
+aePA - TioN n. [f. L aer air+ -ate 3 ] \
+aer'ial, a. Of air, gaseous; thin as air, \
+etherial ; immaterial, imaginary ; of, in, the \
+atmosphere, atmospheric; existing, moving, \
+in the air. Hence aeria'liTY n., aer'ialiA' 2 \
+adv. [f. L f. Gk aerios \{aer air)+ -al] \
+aerie, aery, eyrie, eyry, (aeri, lr i), n. \
+Nest of bird of prey, esp. eagle, or of raven \
+or other bird that builds high up ; human re- \
+sidence perched high on mountain ; brood of \
+bird of prey. [f. med. L aeria, aerea, f. F \
+aire, perh. * f. L area level ground or L \
+atrium hall] \
+\
+a'eriform, a. Of the form of air, gaseous ; \
+unsubstantial, unreal, [f. L aer air+ -form] \
+aero- in comb. Air, atmosphere, as : -drome, \
+aviation course ; -dyiiamics, branch of pneu- \
+matics treating of air in motion; -lite, -lith, \
+meteorite ; -naxd, balloonist, whence -nauti- \
+c(al), aa., -naidics, n. ; -plane, flying-machine \
+using plane(s) for support; -stat, aviator, \
+(formerly) balloon ; -static, of air-navigation or \
+aerostatics (science of equilibrium and pres- \
+sure of air) ; -station, air-navigation. [Gkcomb. \
+form of aer air] \
+\
+aeru'glnous (efoo-), a. Of the nature or \
+colour of verdigris, or copper-rust. [f. Yirugi- \
+neux f. L aeruginosus (aerugo -inis verdigris f. \
+aes aeris brass, see -ous)] \
+Aescula'pius, n. Roman god of medicine ; \
+physician. Hence Aeseula'piAN a. [L] \
+\
+\
+\
+AESTHETE \
+\
+\
+\
+ae'sthete (es-), n. Professed appreciates of \
+the beautiful, [f. Gk aisthetes one who per- \
+ceives (as foil.)] \
+\
+aesthe'tic, a. Belonging to the apprecia- \
+tion of the beautiful ; having such apprecia- \
+tion ; in accordance with principles of good \
+taste. Hence aesthe'ticAL a., aesthe'ti- \
+calLY 2 adv., aesthe'tieiSM, aesthe'tics, \
+nn. [f. Gk aisthetikos (aisthanomai perceive, \
+see -ic)] \
+\
+aestho- physio'logy, n. Scientific study \
+of the organs of sensation, [irreg. f. Gk aisth- \
+perceive+PHYSiOLOGYj \
+\
+aestival, estival,(e*stival, esti'val), a. Be- \
+longing to, appearing in, summer. [F (es-), f. L \
+aestivalis f. aestivus (aestus heat), see -ive, -al] \
+\
+ae'stivate (est-, est-), v.i. Spend the summer, \
+esp. (Zool.) in state of torpor, [f. L aestivare, \
+see -ate 3 ] \
+\
+aestiva'tion (est-, est-), n. (Zool.) aestivat- \
+ing ; (Bot.) arrangement of petals in flower-bud \
+before expansion, [f. prec, see -ation] \
+\
+aetio'logry, n. Assignment of a cause ; \
+philosophy of causation ; (Med.) science of the \
+causes of disease. So aetiolo*g"iCAL a., \
+aetiolo'glealLY 2 adv. [f. L f. Gk aitiologia \
+(aitia cause, see -logy)] \
+\
+af-, pref. = ad- before/. \
+\
+afar*, adv. From a distance ; at, to, a dis- \
+tance (in prose, usu. a. off), [f. OE feor far \
+adv., with prepp. of, on] \
+\
+a'ffable, a. Easy of address, courteous, \
+complaisant. Hence or cogn. affaBi'LiTY n., \
+a'ffabLY 2 adv. [F, f. L affabilis f. AF(fari \
+speak), see -ble] \
+\
+affair*, n. Thing to be done ; concern, busi- \
+ness, matter, as that is my a. ; (pi.) ordinary \
+pursuits of life ; a. of honour, duel ; (colloq., \
+of material things) a gorgeous &c. a. [f. OF \
+afaire (a f aire to do), cf. ado] \
+\
+affe'et 1 , v.t. Practise, use, as a. a costume ; \
+[of things) tend to assume (form, shape, &c); \
+assume (character), as a. the freethinker ; pre- \
+tend to have or feel (indifference &c.) ; pretend \
+(to do), [f. F affect er f. L affectare aim at, \
+pretend to have, frequent, of AF(ficere feet- = \
+facer e do)] \
+\
+affe'et 2 , v.t. Attack (as disease); move, \
+touch, (in mind), whence affe'etingxv 2 adv. ; \
+produce (material) effect on ; (pass., archaic) be \
+assigned, allotted, (to particular service &c). \
+[(perh. thr. F) f. L afficere attach to (see prec.)] \
+\
+affeeta'tion, n. Studied display of; arti- \
+ficiality of manner ; pretence, [f. L affectatio \
+pursuit after (as affect 1 , see -ation)] \
+\
+affe'eted, a. Artificially assumed or dis- \
+played ; pretended ; (of persons) full of affecta- \
+tion, artificial, whence affe'etedLY 2 adv., \
+affe'etedNESS n. ; (with adv.) disposed, in- \
+clined, (toivards or abs.) ; attacked (as by dis- \
+ease) ; moved in the feelings ; acted upon \
+physically, [affect a > 2 + -ed j ] \
+\
+affe'etion, n. Affecting; mental state, \
+emotion, whence affe'etion al a. ; disposition \
+(toivards) ; goodwill, love, (toicards) ; bodily \
+state due to any influence ; malady, disease ; \
+mode of being ; property, quality, attribute. \
+[F, f. L affectionem (as affect 2 , see -ion)] \
+\
+affe'etionate (-at), a. Loving ; fond ; (of \
+things) showing love or tenderness. Hence \
+affe'etionateLY 2 adv., affe'ctionateNEss \
+n. [Latinized f. F affectionn6] \
+\
+affe'etive, a. Pertaining to the affections, \
+emotional. [F (-if, -ive), f. med. L affectivus \
+(as affect 2 , see -ive)] \
+\
+a'fferent, a. Conducting inwards or to- \
+wards, as a. nerves, a. vessels, [f. L AF(ferre \
+bring), see -ent] \
+\
+\
+\
+17 AFFLUX \
+\
+affettuo'so, adv. (mus.). Feelingly. [It.] \
+\
+affi'ance \'bb, n. Faith, trust (in) ; pledging of \
+faith, esp. plighting of troth in marriage, [f. \
+OF afiance f. after trust f. LL AFfidare (fides \
+faith), see -axce] \
+\
+affi'ance 2 , v.t. Promise solemnly in mar- \
+riage (usu. pass.), [f. OF afiancer f. afiance, \
+seeprec] \
+\
+aff ida'vit, n. Written statement, confirmed \
+by oath, to be used as judicial proof. (Strictly, \
+deponent swears an a., judge takes it; but \
+in pop. use deponent makes or takes it.) [L,= \
+has stated on faith or oath, f. AFfidare, see af- \
+fiance 2 ] \
+\
+affi'liate, v.t. (Of an institution) adopt (per- \
+sons as members, societies as branches) ; attach \
+(persons, societies) to, connect (them) with, (a \
+society) ; (Law) fix paternity of (illegitimate \
+child on putative father) for purpose of main- \
+tenance ; ascribe (child) to its parent ; father (a \
+thing) upon, trace (it) to. So affiliATiON n. \
+[f. L AYfiliare adopt (filius son), see -ate 3 ] \
+\
+affvned, a. Related, connected, [f. F affine \
+(afiin f. L affinis, see foil.) + -ED 1 ; no vb in F \
+orE] \
+\
+aff i'nity, n. Relationship, relations, by mar- \
+riage ; relations, kindred, in general ; structural \
+resemblance (between animals, plants, lan- \
+guages) ; (fig.)similarityof character suggesting \
+relationship, family likeness ; liking ; attrac- \
+tion ; (Chem.) tendency of certain elements to \
+unite with others, [f. F. affiniU f. L affinita- \
+tem (AFfinis related, lit. bordering on, f. finis \
+end, see -ty)] \
+\
+affip'm, v.t. & i. Assert strongly, aver; \
+make formal declaration ; (Logic, Gram.) state \
+in the affirmative MLaw) confirm, ratify, (judg- \
+ment). Hence affir'niABLE, affir'matORY, \
+aa. [f. OF afermer f. L AFfirviare (firmus \
+strong)] \
+\
+affirma'tion, n. Affirming, esp. (Law) \
+solemn declaration by person who con- \
+scientiously declines taking an oath. [F, f. L \
+affirmationem (as prec, see -ation)] \
+\
+affir'mative, a. & n. Affirming, answering \
+yes ; (Logic) expressing agreement of the two \
+terms of a proposition; answer in the a., \
+answer yes, say that a thing is so. Hence \
+affir'mativeLY 2 adv. [F (-if, -ive), f. L \
+affirmativus (as prec, see -ive)] \
+\
+affi'x 1 , v.t. Fix, fasten, (thing to, on); im- \
+press (seal, stamp) ; add in writing (signature, \
+postscript); attach (censure, salary), [(perh. thr. \
+MF affixer, occas. refash. of OF aficher F \
+afficher) f. med. L affixare frequent, of L \
+af( figere fix- fix)] \
+\
+a'ffix 2 , n. Appendage, addition; (Gram.) \
+addition placed at the beginning or end of \
+root, stem, or word, to modify its meaning, \
+[f. F ajfixe f. L affigere ^see prec)] \
+\
+affi'xture, n. Affixing, [f. affix l after fix- \
+ture ; correct form (on L) would be affixure] \
+\
+affia'tus, n. Communication of super- \
+natural knowledge ; divine impulse, poetic or \
+other ; inspiration. [L vbl n. f. AF(flare blow)] \
+\
+affii'et, v.t. Distress with bodily or mental \
+suffering, [f. 14th-c afflict adj., f. OF aflit f. L \
+AF(fligere -flict- dash)] \
+\
+afni'etion, n. Misery, distress; pain, cala- \
+mity. So affii'etiVE a. [F, f. L afflictionevi \
+(as prec, see -ion)] \
+\
+affluent 1 , a. Flowing freely, copious; \
+abounding (esp. in riches), wealthy. Hence \
+or cogn. a'ffiuENCE n., a'ffiuentLY 2 adv. [F, \
+f. L AF(fluereflux- flow), see -ent] \
+\
+a'ffiuent 2 , n. Tributary stream, [f. prec, \
+prob. after F] \
+\
+a'ffiux, n. Flow towards a point, esp. of \
+\
+\
+\
+AFFORD 18 \
+\
+humours ; accession, [f. med. L affluxus -us, \
+vol n. as affluent] \
+\
+affop'd, v.t. (With can) have the means, he \
+rich enough, (to do), manage to spare ; furnish, \
+hestow; (of things) yield supply of. [OE gefor- \
+thian (ge- pref. implying completeness -\\-for- \
+thian advance f. forth forward) ; ge- was re- \
+duced to a-, which was corrupted to af- after \
+L (see ad-)] \
+\
+affo'pest, v.t. Convert into forest or hunt- \
+ing-ground. So afforest a tion n. [f. med. \
+L. AFforestare (foresta forest)] \
+\
+affpa'nehise, v.t. Free from servitude or \
+obligation, [f. F affranchiss- lengthened st. of \
+affranchir (a to +franchir free f. franc, see \
+frank)] \
+\
+affray*, n. Breach of the peace, caused by \
+fighting or riot in a public place, [f. OF effrci \
+f. esfreer, vb f . LL EXfridare (\\A\\>fridus f. Teut. \
+fridhu, OHfridh, peace); cf. afraid] \
+\
+affpigrh't *, v.t. (archaic). Frighten, [late \
+formation on fright v., partly due to obs. \
+affright p.p. of OE *afyrhtan (a- intensive)] \
+\
+affrig-h't 2 , n. (archaic). Alarm, terror, [f. \
+prec] \
+\
+affpo'nt 1 (-unt), v.t. Insult openly; put to \
+the blush, offend the modesty or self-respect \
+of ; face, confront, [f. OF afronter slap in the \
+face, insult, f. LL AFfrontare (frons -tis face)] \
+\
+affpo'nt 2 (-unt), n. Open insult, as put a. \
+upon, offer an a. to, feel it an a. [f. prec] \
+\
+affu'sicn, n. Pouring on, esp. of water on \
+the body in one kind of baptism ; (Med.) pour- \
+ing of water, usually 50\'b0 to 70\'b0 Fahr., upon fever \
+patients, [f. L af( fundere fits- pour), see -ion] \
+\
+afie'ld, adv. On or in the field (esp. of \
+labour or battle); to the field; away from \
+home, at a distance, as /or a. [a prep.] \
+\
+afire*, adv. & pred. a. On fire (lit. & fig.), [a \
+prep.] \
+\
+afla'me, adv. & pred. a. In flame, in a glow \
+of light, (lit. & fig.), [a prep.] \
+\
+afloa't, adv. & pred. a. In a floating condi- \
+tion ; at sea, on board ship, in naval service ; \
+full of water ; floating in the air ; out of debt, \
+paying one's way; in full swing; in general \
+circulation, current ; (Commerc.) in currency as \
+negotiable document ; unsettled, adrift. [OE \
+onflote (on prep. + float n.)] \
+\
+it fond (F), adv. Thoroughly, fully. \
+\
+afoo't, adv. & pred. On one's own feet; \
+astir, on the move ; in operation or employ- \
+ment, [a prep.] \
+\
+afore', adv. & prep. (Xaut.) in front, in \
+front of, as a. the mast ; (archaic) previously, [f. \
+OE on foran' '(on prep. + foran, adv., in front, \
+dat. of for, which was used as noun or adj.] \
+\
+afore- in comb. Before, previously, as -cited, \
+-going, -named, -said ; -thought, premeditated, \
+
+\f1 \uc0\u9632 
+\f0 &s_malice a. ; -tune, previously, [prec] \
+\
+a fortiori, adv. With stronger reason, more \
+conclusively. [L] \
+\
+afpai'd, pred. a. Alarmed, frightened, (abs. \
+or of); a. (of the consequences, and therefore \
+unwilling) to do a thine/, a. of a thina's happen- \
+ing, a. lest it should happen, a. (that) it will \
+happen, [p.p. of obs. vb affray f. OF esfreer, \
+see affray] - \
+\
+a'fpeet, -pit, -pite, n. Evil demon in \
+Mohammedan mythology. [Arab, 'ifrit] \
+\
+afpe'sh, adv. Anew, with fresh beginning. \
+[a- (3) + fresh] \
+\
+Afpika'ndep, n. & a. Native of S. Africa \
+born of European (esp. Dutch) settlers ; A.Bond, \
+organization for furtherance of A. interests and \
+ultimate formation of United States of S. Africa, \
+[(perh. f. S.-African Du. Afrikaander) f. Du. \
+Afrikaner n. Af rican, altered on Enalander&c] \
+\
+\
+\
+AGAMOGENESIS \
+\
+\
+\
+aft, adv. (naut.). In or near stern of ship ; to- \
+wards the stern; fore and a., from stem to \
+stern, lengthwise (also as adj. f.-and-a.). [OE \
+seftan cogn. w. Goth, aftana from behind, f. \
+afta behind (a/ off + -ta superl. suf.) ; after, aft, \
+are orig. compar. and superl.] \
+\
+a'fteP 1 , adv., prep., conj. Behind (prep. & \
+adv.) ; in pursuit t\'bbf, as run a., inquire a. ; con- \
+cerning, as look, see, a. ; for, as hanker, yearn, \
+a. ; following in point of time ; a. (the lapse of) \
+three months ; in view of, as a. such behaviour ; \
+next in importance to ; according to, as a. this \
+pattern, a. a fashion ; in imitation of (person), \
+as a. Rembrandt ; in allusion to, as named a. ; \
+(conj.) in, at, the time subsequent to that at \
+which, as a. he went, goes, has gone, had gone. \
+[OE aefter (af off + cornpar. suf. -ter) cogn. w. \
+OHG aftar, Gk. apdtero ; cf. prec] \
+\
+a'ftep 2 , a. Later, following, as a. years; \
+(Xaut.) hinder, posterior, as a. cabin, masts. \
+[f. prec] \
+\
+a'ftepbipth, n. Membrane enveloping the \
+foetus in the womb, so called because its \
+extrusion follows that of the infant, [after a.] \
+\
+a'ftepglow, n. Glow in the West after \
+sunset, [after a.] \
+\
+a'ftep-g-pass, n. Grass that grows after \
+first crop has been mown for hay, or among \
+stubble after harvest, [after a.] \
+\
+a'ftepmath, n. After-grass, [after a. -f- \
+math mowing, OE ??i3eth f. OTeut. root ??i36MOW] \
+\
+a'ftepmost, a. (naut.). Nearest the stern, \
+most aft. [OE xftemest, a treble superl. of af \
+off with compar. suf. inserted, a/+ te (r) + me \
++ st] \
+\
+afternoo'n, n. The time from noon to even- \
+ing, as in, during, the a., on Wednesday a., \
+(fig.) the a. of life, [after prep.] \
+\
+a'fteppieee, n. Farce or smaller entertain- \
+ment after a play, [after a.] \
+\
+a'ftepthouglit, n. Reflection after the act ; \
+later expedient or explanation, [after a. or \
+adv.] \
+\
+a'ftepwapds, adv. Later, subsequently. \
+[OE xftaniceard, a. (xftan aft + ward, cor- \
+rupted in OE to xfterweard, + adv. genit. \
+suf. -es] \
+\
+ag"-, pref. - ad- before g. \
+\
+a'gra (or crgah'), n. Commander, chief officer, \
+in Ottoman empire. [Turk, agha master] \
+\
+agai* n, adv. Another time, once more ; a. \
+and a., time and a., repeatedly; ever and a., \
+now and a., occasionally ; as much a., twice as \
+much; half as much a., one-and-a-half times \
+as much ; further, besides ; on the other hand, \
+as these a. are more expensive ; back a. (to the \
+original position or condition) ; in return, as \
+answer a. ; in response, as rocks echoed a., \
+glasses rang a. ; proportionately to specified \
+act or condition, as the loaded table groaned \
+a. [OE ongedn, ongxgn (on in + gagn oppo- \
+site), cf. G entgegen ; 12th-c againes (see -ES) be- \
+came against by confus. w. superlatives] \
+\
+ag-ai'nst, prep. In opposition to, as fight a,, \
+I am a. reform ; in contrast to, as a. a dark \
+background ; in anticipation of, as a. his \
+coming, a. a rainy day; in preparation for, as \
+learned a. pickpockets ; into collision with, as \
+ran a. arock, (colloq.) ran a. (chanced to meet) \
+a friend ; opposite to, as a. the horsepond (usu. \
+over a.), [see prec] \
+\
+a'gami, n. Tropical American bird, the \
+Trumpeter, [native name in Guiana] \
+\
+aga'mie, a. (zool.). Characterized by absence \
+of sexual action, [as foil. + -ic] \
+\
+a'gamoge'nesis, n. Asexual reproduction. \
+So ag-amogrene'tic a., agamogene'tic- \
+ally adv. [as foil. + genesis birth] \
+\
+\
+\
+AGAMOUS 19 \
+\
+a'gamous, a. (biol.). Without (distinguish- \
+able) sexual organs, [f. L f. Gk agamos (a- not \
++ gamos marriage) + -ousj \
+\
+aga'pe *, adv. & pred. a. On the gape ; open- \
+mouthed with wonder or expectation, [a prep.] \
+\
+a'gape-, n. Love-feast held by early Chris- \
+tians in connexion with Lord's Supper. [Gk, \
+= brotherly love] \
+\
+a'garie (or aga'ric), n. Mushroom ; name \
+of various fungi, [f. L f. Gk agarikon perh. f. \
+a place A garia] \
+\
+agastric, a. (zool.). Without distinct ali- \
+mentary canal, [f. Gk a- not + gaster -tros belly] \
+\
+a'gate (-at), n. Name of several varieties of \
+precious stone (semipellucid variegated chalce- \
+donies) ; burnishing instrument of gold- wire- \
+drawers; (in U.S.) the printing-type called in \
+England ruby. [f. F agathe (lGth-c.) f. It. agata \
+f. L f. Gk akhates agate] \
+\
+Aga've (-1), n. (bot.). Genus of plants in- \
+cluding American Aloe. [f. L f. Gk Agaue, \
+prop, name in myth.] \
+\
+aga'ze, adv. On the gaze, [a prep.] \
+\
+age \\ n. Length of life or of existence ; Moon's \
+a., time elapsed since new moon ; duration of \
+life required for a purpose, as come of a., full \
+a. (in Eng. Law, 21 years), a. of discretion (14), \
+over a. ; latter part of life, as peevishness of \
+a. ; a generation ; brazen x &c. a. ; (Hist., Geol.) \
+\
+fjreat period, as Patriarchal A., Ice A.; (colloq.) \
+ong time, as waiting for aa. [f. OF aage, \
+eclage, f. ~LL*aetaticum f. aetas -atis contraction \
+of aevitas iaevum an age) ; see -age] \
+age 2 , v.t. & i. (Cause to) grow old. [f. prec] \
+-age, suf. OFf. LL -aticum 'belongings' neut. \
+of adj. suf. -aticus -atic (med. L -agium is \
+readofrted f. F, e.g. homagium f. hommage \
+instead of hominaticum) ; afterwards added as \
+living suf. in F and in E. Meaning: (1) collec- \
+tive belongings or aggregate of (cellarage) ; (2) \
+function, condition, (baronage, bondage) ; (3) \
+action (breakage) ; (4) fees payable for, cost of \
+using, (cartage, demurrage). \
+aged, a. (a'jid) having lived long, old ; (ajd) of \
+the age of, as a. thirteen. Hence a'gedNESS \
+\
+n. [f. AGE V. + -ED J ] \
+\
+a'geless, a. Never growing old. [age n. + \
+-less] \
+\
+a'gency, n. Active operation, action, as \
+moral, free, a. ; instrumentality, as by the a. \
+of; action personified, as an invisible a.; (Com- \
+merc.) office of agent; establishment for busi- \
+ness purposes, as JReuter's A. [f. med. L \
+agentia (L agere do, see -ence)] \
+\
+agenda, n. Things to be done, items of \
+business to be considered at a meeting; me- \
+morandum book. [L, neut. pi. of gerundive \
+of agere do] \
+\
+a'gent, n. One who exerts power or produces \
+an effect ; (of things) efficient cause ; a natural \
+force acting on matter, as chemical a. ; one \
+who does the actual work ; a. provocateur (F), \
+a. enticing one suspected of sedition &c. to \
+commit himself, (improp.) ringleader. So \
+age'ntiAL (-shl) a. [as act 2 , -ent] \
+\
+agglo'merate 1 , v.t. & i. Collect into a \
+mass. Hence agglomerA'TiON n., ag"- \
+glo'meratiVE a. [f. L AGglomerare (glomus \
+-meris ball), see -ate 3 ] \
+\
+agglo'merate 2 (-at), a. & n. (Collected into) \
+a mass; (Geol.) mass of volcanic fragments \
+united under heat, opp. to conglomerate, [as \
+prec., see -ate 2 ] \
+\
+agglu'tinate l (-at), a. Glued together ; con- \
+sisting of simple words combined into com- \
+pounds without change of form or loss of \
+meaning, [f. L XGglutinare (gluten -tinis glue) \
+see -ate 2 ] \
+\
+\
+\
+AGNAIL \
+\
+agglu'tinate 2 , v.t. & i. Unite as with \
+glue; combine simple words to express com- \
+pound ideas; (t. & i.) turn into glue. Hence \
+agglutinATioN n., agglu'tinativE a. [as \
+prec, see -ate 3 ] \
+\
+a'ggrandize, v.t. Increase the power, \
+rank, wealth, of (person. State) ; exaggerate, \
+embellish. Hence aggra'ndizeMENT, n. [f. F \
+agrandir (st. -iss-) prob. f. It. AG(grandire f. L. \
+grandis large)] \
+\
+a'ggravate, v.t. Increase the gravity of \
+(burden, offence, &c); (colloq.) exasperate jj \
+(person). SoaggravA'TiON n. [f. 1*ag gravare * \
+make heavy (gravis), see -ate 2 ; replacing obs. \
+aggrege f. OF agreger f. *LL aggreviare)] \
+\
+a'ggregate 1 (-at), a. & n. Collected into \
+one body ; collective, total ; (Law) composed \
+of associated individuals, as corporation a. ; \
+sum total ; assemblage ; (Physics) mass of \
+homogeneous particles; in the a., as a whole, \
+[f. L AGgregare unite in a flock (grex gregis)] \'95 \
+\
+a'ggregate 2 , v.t. & i. Collect together; \
+(trans.) unite (individual to company). Hence \
+aggregATiON n., a'ggregativE a. [f. prec] \
+\
+aggre'ss, v.t. & i. Begin a quarrel ; (trans.) \
+attack. So aggre'ssiON, aggre'ssc-R 2 , nn. \'84 \
+[f. F aggresser f. LL aggressare frequent, of \
+AG(gredi gress- \'97 gradi step)] \
+\
+aggressive, a. & n. Of attack ; offensive ; \
+disposed to attack; assume the a., begin the \
+quarrel. Hence aggre*ssiveLY 2 adv., ag- \
+gre'ssiveNESS n. [as prec, see -ive] \
+\
+aggrieve, v.t. Grieve, distress, oppress, \
+(usu. pass.), [f. OF agreveras aggravate] \
+\
+agha'st (agah-, aga-), a. Terrified ; struck \
+with amazement, [p.p. of obs. vbaoas^(A-(l)+ 
+\f1 \uc0\u9632 
+\f0  \
+gasten, OE gxstan, alarm)] * \
+\
+a'gile (aj-), a. Quick-moving, nimble, active. \
+Hence or cogn. agi'liTY n., a'gileLY 2 adv. \
+[F, f. L agilis (agere do)] \
+\
+a'gio (aj-, aj-), n. Percentage charged on ex- \
+change of paper-money into cash, or of one \
+currency into another more valuable ; excess \
+value of one currency over another ; exchange \
+business. [It;, = ease] \
+\
+a'giotage (-ij), n. Exchange business ; specu- \
+lation in stocks ; stock-jobbing. [F f. agioter \
+(prec. -\{-connecting -t-) ; see -age] \
+\
+agi'st (-j-), v.t. Take in live stock to feed; \
+charge (land or its owner) with a public burden. \
+Hence agi'stMENT n. [f. OF agister (d to-f \
+gistcr f. hjacitare frequent, -of jacere lie)] \
+\
+a'gitate, v.t. Move, shake ; disturb, excite, \
+(feelings, persons) ; revolve mentally, discuss, \
+debate, (plans &c) ; (abs.)keep up an agitation \
+\{for), [f. L agitare move to and fro, frequent, \
+of agere drive, see -ate 3 ] \
+\
+agita'tion, n. Moving, shaking ; commotion, \
+disturbance, (mental or physical) ; debate, dis- \
+cussion ; keeping of a matter constantly before \
+the public ; public excitement. [F, f. L agita- \
+tionem (as prec, see -ation)] \
+\
+agita'to (-tah-), adv. (mus.). In an agitated \
+manner. [It.] \
+\
+a'gitator, n. One who agitates, esp. politic- \
+ally ; apparatus for shaking or mixing. [L \
+(see agitate and -or 2 )] \
+\
+a'glet, ai'glet, n. Metal tag of a lace ; \
+spangle or other metallic ornament of dress ; \
+tagged point hanging from shoulder upon \
+breast of some uniforms (usu. aiguillette) ; \
+catkin of hazel, birc\
+}
